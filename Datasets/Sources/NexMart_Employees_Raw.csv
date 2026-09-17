@@ -1,0 +1,311 @@
+﻿EmployeeID,EmployeeName,Gender,JobTitle,Department,StoreID,Region,HireDate,EmploymentStatus
+EMP0209,Sneha Das,Other,Sales Executive,Sales,STORE037,East,2022-04-04,Active
+EMP0220,Manish Mehta,Female,Customer Service Executive,Customer Service,STORE019,North,May 18 2021,Active
+EMP0202,Swati Chatterjee,Other,Customer Service Executive,Customer Service,STORE044,South,24/12/2024,Active
+EMP0171,Sourav Patel,Other,Sales Executive,Sales,STORE042,West,2024-11-17,Active
+EMP0106,Vikram Patel,Other,Sales Executive,Sales,STORE031,North,Feb 21 2018,Active
+EMP0119,Deepak Iyer,Male,Senior Sales Executive,Sales,STORE011,North,05/07/2022,Active
+EMP0248,Sanjay Saha,Female,Sales Executive,Sales,STORE003,North,2025-11-03,Active
+EMP0213,Sanjay Das,Male,Sales Executive,Sales,STORE025,East,2020-02-26,Active
+EMP0276,Debasish Mehta,Other,Operations Executive,Operations,STORE044,South,Aug 09 2022,Active
+EMP0051,Tanmoy Iyer,Male,Sales Executive,Sales,STORE004,South,26/12/2020,Active
+EMP0029,Debasish Verma,Other,Customer Service Executive,Customer Service,STORE050,West,Sep 26 2022,Active
+EMP0228,Nikhil Iyer,Other,Customer Service Executive,Customer Service,STORE030,West,02/09/2025,Active
+EMP0012,Swati Ghosh,Other,Senior Sales Executive,Sales,STORE028,SOUTH,09/06/2018,Active
+EMP0233,Ananya Malhotra,Female,Assistant Manager,Sales,STORE015,North,15/06/2020,Active
+EMP0098,Sanjay Verma,Other,Operations Executive,Operations,STORE013,East,Aug 14 2018,Active
+EMP0218,Sanjay Reddy,Female,Sales Executive,Sales,STORE034,West,May 23 2020,Active
+EMP0239,Sayan Iyer,Other,Sales Executive,Sales,STORE019,North,Sep 22 2019,Active
+EMP0245,Debasish Patel,Female,Sales Executive,Sales,STORE015,North,Dec 22 2018,Active
+EMP0036,Vikram Dutta,Other,Sales Executive,Sales,STORE015,North,2023-04-19,Active
+EMP0237,Pooja Ghosh,Female,Sales Executive,Sales,STORE039,North,29/03/2022,Inactive
+EMP0201,Rakesh Samanta,Male,Sales Executive,Sales,STORE019,North,May 26 2025,Active
+EMP0197,Sanjay Sen,Female,Senior Sales Executive,Sales,STORE020,South,2025-10-08,Active
+EMP0063,ADITYA GUPTA,Male,Sales Executive,Sales,STORE017,East,Jul 04 2020,Active
+EMP0058,Nikhil Sharma,Other,Customer Service Executive,Customer Service,,West,27/09/2020,Active
+EMP0238, Arjun Samanta ,Other,Senior Sales Executive,Sales,STORE032,South,23/03/2020,Inactive
+EMP0068,Kavya Roy,Other,Senior Sales Executive,Sales,STORE014,West,13/11/2024,Active
+EMP0109,Sanjay Chatterjee,Female,Sales Executive,Sales,STORE018,West,Jun 12 2019,Active
+EMP0048,Debasish Das,Other,Operations Executive,Operations,STORE024,South,2023-09-03,Active
+EMP0134,Rahul Malhotra,Female,Customer Service Executive,Customer Service,STORE010,West,Jan 18 2025,Active
+EMP0075,Pooja Verma,Other,Sales Executive,Sales,STORE032,South,17/01/2021,Active
+EMP0241,Aarav Iyer,Female,Sales Executive,Sales,STORE049,East,04/01/2019,Active
+EMP0190,Moumita Singh,Female,Sales Executive,Sales,STORE007,North,31/07/2018,Active
+EMP0028,RAHUL DAS,Other,Sales Executive,Sales,STORE040,South,Mar 22 2022,Active
+EMP0011,Sayan Saha,Other,Store Manager,Sales,STORE035,North,07/07/2019,Active
+EMP0261,Moumita Saha,Male,Sales Executive,Sales,STORE009,East,Oct 05 2022,Active
+EMP0282,Nikhil Chatterjee,Other,Senior Sales Executive,Sales,STORE040,South,20/10/2018,Active
+EMP0258,Pooja Sharma,Female,Senior Sales Executive,Sales,STORE001,East,May 01 2018,Active
+EMP0008,Aarav Mehta,Female,Customer Service Executive,Customer Service,STORE007,North,26/11/2018,Active
+EMP0279,Varun Banerjee,Other,Inventory Executive,Operations,STORE037,East,2023-02-11,Active
+EMP0018,Tanmoy Malhotra,Other,Senior Sales Executive,Sales,STORE033,East,May 27 2020,Active
+EMP0125,Tanmay Sen,Male,Sales Executive,Sales,STORE016,South,12/08/2024,Active
+EMP0267,Neha Paul,Other,Assistant Manager,Sales,STORE037,East,2018-03-21,Active
+EMP0037,Moumita Iyer,Female,Sales Executive,Sales,STORE018,West,Jul 13 2025,Active
+EMP0101,Pooja Mehta,Male,Sales Executive,Sales,STORE027,North,02/09/2025,Active
+EMP0295,Aniket Ghosh,Male,Store Manager,Sales,STORE006,West,10/03/2024,On Leave
+EMP0014, Sayan Reddy ,Female,Senior Sales Executive,Sales,STORE013,East,21/12/2023,Active
+EMP0192,Aniket Paul,Male,Sales Executive,Sales,STORE028,South,Mar 17 2021,Active
+EMP0020,Vikram Mondal,Other,Sales Executive,Sales,STORE005,East,2025-05-16,Active
+EMP0230,Swati Verma,Male,Senior Sales Executive,Sales,STORE041,East,2018-09-19,Active
+EMP0198,Ananya Samanta,Female,Operations Executive,Operations,STORE026,West,2025-10-18,Active
+EMP0049,Rakesh Sharma,Male,Customer Service Executive,Customer Service,STORE011,North,Dec 14 2021,Active
+EMP0047,Meera Mukherjee,Female,Store Manager,Sales,STORE042,West,12/06/2020,Active
+EMP0253,Akash Paul,Male,Customer Service Executive,Customer Service,STORE014,West,Jun 15 2024,Active
+EMP0156,Moumita Iyer,Female,Senior Sales Executive,Sales,STORE015,North,13/05/2021,Active
+EMP0007, Amit Rao ,Male,Sales Executive,Sales,STORE015,North,2021-03-17,Active
+EMP0102, Tanmoy Saha ,Other,Senior Sales Executive,Sales,STORE021,East,2018-07-08,Active
+EMP0065,Amit Sen,Male,Store Manager,Sales,STORE046,West,13/02/2026,Active
+EMP0097,Swati Iyer,Other,Sales Executive,Sales,STORE025,East,Apr 21 2020,Active
+EMP0024,Aarav Paul,Other,Sales Executive,Sales,STORE019,North,2023-10-12,On Leave
+EMP0114,Priya Samanta,Other,Sales Executive,Sales,STORE042,West,Nov 17 2023,Active
+EMP0104,Tanmay Sen,Other,Operations Executive,Operations,STORE013,East,2023-05-23,Active
+EMP0085,Rohan Mondal,Other,Store Manager,Sales,STORE003,North,2019-03-22,Active
+EMP0050,Riya Samanta,Other,Sales Executive,Sales,STORE049,East,2025-12-15,Active
+EMP0291,Tanmoy Samanta,Male,Sales Executive,Sales,STORE031,North,2024-02-15,Active
+EMP0130,Moumita Paul,Female,Regional Sales Manager,Sales,STORE001,East,2021-08-18,Active
+EMP0040,Varun Bose,Other,Senior Sales Executive,Sales,STORE008,South,Nov 06 2020,Active
+EMP0182,Arjun Saha,Male,Operations Executive,Operations,STORE031,North,2021-10-02,Active
+EMP0243,Ananya Gupta,Other,Sales Executive,Sales,STORE027,North,2022-06-17,Active
+EMP0147, Swati Rao ,Other,Sales Executive,Sales,STORE039,North,22/06/2025,Active
+EMP0293,Shreya Sharma,Other,Senior Sales Executive,Sales,STORE023,North,Mar 17 2024,On Leave
+EMP0016,KARAN IYER,Other,Sales Executive,Sales,STORE002,West,21/03/2024,Inactive
+EMP0161,Shreya Mukherjee,Male,Sales Executive,Sales,STORE009,East,2024-08-27,Active
+EMP0224,Tanmoy Bose,Female,Senior Sales Executive,Sales,STORE022,West,04/05/2019,Active
+EMP0006,Kavya Reddy,Female,Operations Executive,Operations,STORE018,West,Nov 04 2023,Active
+EMP0225,Manish Rao,Male,Sales Executive,Sales,STORE014,West,2025-02-20,Active
+EMP0226,Ankita Bose,Male,Operations Executive,Operations,STORE037,East,27/04/2022,On Leave
+EMP0180,Shreya Patel,Female,Senior Sales Executive,Sales,STORE038,West,2022-04-12,Active
+EMP0173,Manish Mondal,Female,Customer Service Executive,Customer Service,STORE041,East,Sep 16 2023,Active
+EMP0038,Manish Patel,Female,Senior Sales Executive,Sales,STORE037,East,2025-06-28,Active
+EMP0118,Shreya Chatterjee,Male,Sales Executive,Sales,STORE015,North,13/06/2020,Active
+EMP0219,Aniket Banerjee,Female,Operations Executive,Operations,STORE004,South,2025-02-22,Active
+EMP0023,Akash Mondal,Other,Senior Sales Executive,Sales,STORE048,South,2019-05-05,Active
+EMP0214,Ananya Chatterjee,Male,Sales Executive,Sales,STORE005,East,2022-07-23,Active
+EMP0054,Moumita Khan,Male,Inventory Executive,Operations,STORE006,West,Jul 11 2019,Active
+EMP0235,Ananya Mehta,Female,Sales Executive,Sales,STORE038,West,05/08/2018,Active
+EMP0013, Aniket Agarwal ,Male,Customer Service Executive,Customer Service,STORE036,South,Mar 20 2024,Active
+EMP0077, Arjun Singh ,Male,Sales Executive,Sales,STORE014,West,2021-12-17,Active
+EMP0234,Tanmay Patel,Other,Regional Sales Manager,Sales,STORE016,South,24/06/2022,Active
+EMP0271,Akash Roy,Female,Sales Executive,Sales,STORE019,North,May 13 2025,Active
+EMP0289,SHREYA KHAN,Male,Operations Executive,Operations,STORE045,East,2018-09-03,Active
+EMP0010,RIYA NAIR,Male,Store Manager,Sales,STORE031,North,30/03/2024,Active
+EMP0027, Deepak Patel ,Other,Sales Executive,Sales,STORE043,North,13/01/2018,Active
+EMP0191,Aniket Mukherjee,Male,Operations Executive,Operations,STORE033,East,May 16 2018,Active
+EMP0292,Karan Mehta,Male,Senior Sales Executive,Sales,STORE004,South,Dec 15 2021,Active
+EMP0146,Shreya Agarwal,Male,Senior Sales Executive,Sales,STORE005,East,26/02/2024,On Leave
+EMP0145,Sanjay Paul,Male,Sales Executive,Sales,STORE050,West,24/08/2020,Active
+EMP0246,Sneha Das,Female,Customer Service Executive,Customer Service,STORE004,South,Feb 20 2021,Active
+EMP0179,Ishita Chatterjee,Male,Sales Executive,Sales,STORE021,East,2025-06-20,Active
+EMP0117,Tanmay Bose,Female,Store Manager,Sales,STORE048,South,2018-12-03,Active
+EMP0092,Nikhil Verma,Other,Sales Executive,Sales,STORE023,North,28/02/2023,Active
+EMP0132,Rahul Banerjee,Female,Sales Executive,Sales,STORE009,East,22/05/2021,Active
+EMP0299,Aarav Mondal,Other,Sales Executive,Sales,STORE037,East,Jul 20 2023,Active
+EMP0240,Arjun Ghosh,Female,Sales Executive,Sales,STORE017,East,Aug 07 2019,Active
+EMP0057,Arjun Paul,Other,Senior Sales Executive,Sales,STORE029,East,18/01/2022,Active
+EMP0286,Tanmoy Chatterjee,Male,Inventory Executive,Operations,STORE020,South,19/04/2023,Active
+EMP0005,DEEPAK GUPTA,Female,Assistant Manager,Sales,STORE032,South,Jan 08 2025,On Leave
+EMP0072,Rahul Patel,Female,Sales Executive,Sales,STORE017,East,Aug 19 2023,Active
+EMP0110,Arjun Iyer,Male,Sales Executive,Sales,STORE013,East,15/10/2019,Active
+EMP0099,Meera Ghosh,Female,Senior Sales Executive,Sales,STORE005,East,02/06/2020,Active
+EMP0273,Manish Iyer,Female,Sales Executive,Sales,STORE020,South,Sep 27 2025,Active
+EMP0135,Neha Mehta,Female,Assistant Manager,Sales,STORE008,South,Aug 15 2019,Active
+EMP0034,Nikhil Sharma,Other,Sales Executive,Sales,STORE017,East,2019-02-10,Active
+EMP0222,Aditya Nair,Male,Sales Executive,Sales,STORE045,East,30/01/2018,Active
+EMP0148,Riya Sen,Other,Regional Sales Manager,Sales,STORE006,West,2018-06-02,Active
+EMP0001,TANMAY GHOSH,Other,Store Manager,Sales,STORE024,South,Jan 23 2022,Active
+EMP0166,Rahul Das,Other,Senior Sales Executive,Sales,STORE030,West,Jun 19 2025,Active
+EMP0025,Sourav Rao,Other,Sales Executive,Sales,STORE017,East,2021-10-09,Active
+EMP0275,Priya Sen,Male,Senior Sales Executive,Sales,STORE037,EAST,Jul 11 2018,Active
+EMP0035,Shreya Samanta,Male,Sales Executive,Sales,STORE044,South,12/09/2025,Active
+EMP0108,Riya Bose,Other,Sales Executive,Sales,STORE010,WEST,25/07/2024,Active
+EMP0137,Kavya Mehta,Female,Inventory Executive,Operations,STORE003,North,2018-02-14,Active
+EMP0229,Aditya Saha,Female,Regional Sales Manager,Sales,STORE038,West,2021-11-03,Active
+EMP0059,Amit Singh,Male,Customer Service Executive,Customer Service,STORE025,East,Aug 28 2018,Active
+EMP0026,Tanmay Agarwal,Male,Customer Service Executive,Customer Service,STORE020,South,2020-06-14,Active
+EMP0083,Amit Patel,Other,Customer Service Executive,Customer Service,STORE039,North,2025-01-21,Active
+EMP0236,Sanjay Reddy,Other,Sales Executive,Sales,STORE005,East,Feb 25 2021,Active
+EMP0067,Ishita Malhotra,Male,Sales Executive,Sales,STORE024,South,Dec 07 2018,Active
+EMP0144,Ishita Singh,Other,Inventory Executive,Operations,STORE032,South,22/02/2022,Active
+EMP0257,Nikhil Banerjee,Other,Sales Executive,Sales,STORE006,West,17/03/2020,Active
+EMP0019,Akash Mukherjee,Female,Inventory Executive,Operations,STORE032,South,2021-08-15,Active
+EMP0280,Sourav Gupta,Female,Sales Executive,Sales,STORE033,East,16/09/2024,Active
+EMP0274,Priya Ghosh,Female,Customer Service Executive,Customer Service,STORE009,East,Feb 05 2022,Active
+EMP0121,Tanmay Reddy,Male,Sales Executive,Sales,STORE036,South,2020-12-27,Active
+EMP0155,Nikhil Rao,Other,Senior Sales Executive,Sales,STORE034,West,2021-05-30,Active
+EMP0174,Sanjay Rao,Female,Senior Sales Executive,Sales,STORE019,North,Oct 15 2025,Active
+EMP0030,Ishita Bose,Male,Senior Sales Executive,Sales,STORE016,South,2024-09-12,Active
+EMP0227,Tanmay Dutta,Other,Operations Executive,Operations,STORE035,North,Mar 02 2025,Active
+EMP0172,Akash Sharma,Female,Sales Executive,Sales,STORE041,East,2020-12-19,Active
+EMP0074,Tanmoy Das,Other,Assistant Manager,Sales,STORE034,West,2018-06-06,Active
+EMP0009, Debasish Chatterjee ,Other,Sales Executive,Sales,STORE014,West,2020-09-23,Active
+EMP0129,Deepak Khan,Male,Assistant Manager,Sales,STORE025,East,13/12/2021,Active
+EMP0069,Ishita Reddy,Male,Inventory Executive,Operations,STORE004,South,27/04/2018,Active
+EMP0096,Pooja Mukherjee,Male,Sales Executive,Sales,STORE022,West,May 14 2021,Active
+EMP0093,Tanmay Malhotra,Female,Inventory Executive,Operations,STORE043,North,06/03/2024,Active
+EMP0128,Moumita Khan,Other,Senior Sales Executive,Sales,STORE025,East,28/01/2025,On Leave
+EMP0076,Sayan Paul,Other,Senior Sales Executive,Sales,STORE011,North,07/10/2018,Active
+EMP0231,Tanmay Banerjee,Male,Sales Executive,Sales,STORE011,North,20/05/2019,Active
+EMP0084,Kavya Nair,Male,Sales Executive,Sales,STORE003,North,2018-02-21,Active
+EMP0073,Meera Banerjee,Female,Store Manager,Sales,STORE001,East,Jul 11 2025,Active
+EMP0042,Sneha Patel,Female,Senior Sales Executive,Sales,STORE022,West,2022-01-16,Active
+EMP0091,Moumita Ghosh,Male,Sales Executive,Sales,STORE046,West,29/04/2019,Active
+EMP0244,Rohan Das,Female,Sales Executive,Sales,STORE011,North,12/12/2024,Active
+EMP0015,Sayan Patel,Female,Senior Sales Executive,Sales,STORE018,West,Mar 29 2019,Active
+EMP0142,Moumita Mukherjee,Other,Sales Executive,Sales,STORE043,North,Apr 08 2018,Active
+EMP0005,Deepak Gupta,Female,Assistant Manager,Sales,STORE032,South,Jan 08 2025,On Leave
+EMP0251,Karan Iyer,Female,Sales Executive,Sales,STORE044,South,2021-08-06,Active
+EMP0090,Amit Rao,Male,Customer Service Executive,Customer Service,STORE007,North,14/07/2022,Active
+EMP0094,Nikhil Banerjee,Male,Senior Sales Executive,Sales,STORE014,West,22/02/2024,Active
+EMP0053,Sayan Singh,Female,Operations Executive,Operations,STORE035,North,Aug 19 2025,Active
+EMP0265,Tanmay Gupta,Female,Sales Executive,Sales,STORE038,West,2024-12-22,Active
+EMP0193,Deepak Gupta,Female,Assistant Manager,Sales,STORE011,North,2019-01-11,Active
+EMP0022,Karan Nair,Other,Sales Executive,Sales,STORE012,South,Jan 21 2020,Active
+EMP0181,Sanjay Malhotra,Female,Sales Executive,Sales,STORE032,South,2021-06-28,Active
+EMP0105,Rohan Iyer,Female,Senior Sales Executive,Sales,STORE049,East,2025-07-31,On Leave
+EMP0187,Priya Banerjee,Other,Sales Executive,Sales,STORE024,South,2018-03-21,Active
+EMP0089,Aarav Agarwal,Male,Operations Executive,Operations,STORE042,West,Dec 04 2023,Active
+EMP0183,Aditya Ghosh,Other,Sales Executive,Sales,STORE040,South,2021-02-02,Active
+EMP0055,Aarav Gupta,Male,Sales Executive,Sales,STORE038,West,12/02/2023,Active
+EMP0115,Rahul Paul,Female,Sales Executive,Sales,STORE006,West,Jul 06 2024,Active
+EMP0177,Manish Chatterjee,Female,Operations Executive,Operations,STORE004,South,2019-08-25,On Leave
+EMP0169,Moumita Patel,Other,Sales Executive,Sales,STORE048,South,Sep 15 2020,Active
+EMP0162,Sanjay Samanta,Male,Inventory Executive,Operations,STORE008,South,Mar 24 2020,On Leave
+EMP0165,Karan Ghosh,Other,Regional Sales Manager,Sales,STORE015,North,18/05/2025,Active
+EMP0210,Rakesh Reddy,Other,Customer Service Executive,Customer Service,STORE004,South,05/01/2020,Active
+EMP0264,Aditya Gupta,Male,Sales Executive,Sales,STORE028,South,22/12/2024,On Leave
+EMP0168,Rakesh Das,Female,Senior Sales Executive,Sales,STORE028,South,03/12/2025,Active
+EMP0252,Amit Rao,Male,Inventory Executive,Operations,STORE002,West,2018-12-31,Active
+EMP0133,Neha Patel,Male,Regional Sales Manager,Sales,STORE039,North,14/06/2019,Active
+EMP0178,Swati Chatterjee,Female,Customer Service Executive,Customer Service,STORE015,North,2025-12-01,Active
+EMP0039,Moumita Mehta,Other,Sales Executive,Sales,STORE013,East,2024-04-07,Active
+EMP0170,Rahul Paul,Male,Sales Executive,Sales,STORE009,East,21/10/2024,Active
+EMP0149,SAYAN SAMANTA,Female,Sales Executive,Sales,STORE042,West,15/06/2020,Active
+EMP0300,Nikhil Gupta,Female,Sales Executive,Sales,STORE020,South,08/01/2026,Active
+EMP0031,Vikram Khan,Male,Senior Sales Executive,Sales,STORE023,North,20/08/2022,Active
+EMP0082,Ankita Mehta,Male,Sales Executive,Sales,STORE013,East,2023-09-09,Active
+EMP0281,Sanjay Mukherjee,Other,Sales Executive,Sales,STORE036,South,10/10/2025,Active
+EMP0154,Sourav Mehta,Female,Sales Executive,Sales,STORE021,East,Feb 26 2019,Inactive
+EMP0070,Rohan Mukherjee,Female,Sales Executive,Sales,STORE021,East,2020-07-15,Active
+EMP0277,Sneha Sen,Male,Sales Executive,Sales,STORE023,North,2023-12-26,Active
+EMP0283,Ananya Samanta,Other,Sales Executive,Sales,STORE026,West,2025-12-25,On Leave
+EMP0242,Moumita Banerjee,Other,Regional Sales Manager,Sales,STORE016,South,Jul 17 2025,Active
+EMP0116,Amit Banerjee,Other,Assistant Manager,Sales,STORE025,East,Dec 07 2025,Active
+EMP0107,Shreya Das,Female,Sales Executive,Sales,STORE013,East,14/10/2019,Active
+EMP0212,Swati Dutta,Other,Sales Executive,Sales,STORE049,East,2023-07-02,Active
+EMP0139,Rakesh Khan,Male,Operations Executive,Operations,STORE031,North,Mar 07 2024,Active
+EMP0300,NIKHIL GUPTA,Female,Sales Executive,Sales,STORE020,South,08/01/2026,Active
+EMP0297,Kavya Saha,Other,Customer Service Executive,Customer Service,STORE037,East,2018-02-21,Active
+EMP0056,Ankita Samanta,Other,Assistant Manager,Sales,STORE016,South,18/09/2018,Active
+EMP0285,Aarav Reddy,Female,Regional Sales Manager,Sales,STORE017,EAST,Sep 01 2020,Active
+EMP0062,Sanjay Das,Male,Sales Executive,Sales,STORE050,West,Jan 31 2019,Active
+EMP0232,Shreya Samanta,Other,Sales Executive,Sales,STORE011,North,Sep 16 2021,Active
+EMP0208,Moumita Malhotra,Male,Sales Executive,Sales,STORE001,East,Sep 29 2025,Active
+EMP0066,Ananya Sharma,Male,Sales Executive,Sales,STORE021,East,Dec 27 2025,Active
+EMP0064,Aditya Mukherjee,Female,Sales Executive,Sales,STORE024,South,2022-05-04,Active
+EMP0175,Neha Roy,Male,Inventory Executive,Operations,STORE006,West,Jul 10 2020,Active
+EMP0270,Meera Chatterjee,Other,Senior Sales Executive,Sales,STORE002,West,07/02/2020,Active
+EMP0216,Deepak Malhotra,Female,Senior Sales Executive,Sales,STORE033,East,2024-02-12,Active
+EMP0294,Rakesh Malhotra,Other,Sales Executive,Sales,STORE040,South,03/07/2025,Active
+EMP0260,Ishita Reddy,Other,Senior Sales Executive,Sales,STORE049,East,Nov 15 2023,Active
+EMP0081,Sneha Bose,Female,Regional Sales Manager,Sales,STORE015,North,2021-10-08,Active
+EMP0143,Kavya Paul,Other,Sales Executive,Sales,STORE036,South,Jan 21 2022,Active
+EMP0205,Tanmay Chatterjee,Male,Assistant Manager,Sales,STORE017,East,2020-10-18,Active
+EMP0287,Priya Mondal,Female,Regional Sales Manager,Sales,STORE042,West,19/08/2023,Active
+EMP0268,Ishita Sen,Other,Senior Sales Executive,Sales,STORE040,South,18/02/2018,Active
+EMP0032,Rahul Mehta,Female,Sales Executive,Sales,STORE024,South,Mar 30 2021,Active
+EMP0262,Debasish Khan,Male,Operations Executive,Operations,STORE005,East,2021-07-23,Active
+EMP0186,Ishita Khan,Female,Regional Sales Manager,Sales,STORE009,East,09/05/2019,Active
+EMP0100,Ananya Ghosh,Male,Sales Executive,Sales,STORE005,East,Mar 13 2025,Active
+EMP0193,DEEPAK GUPTA,Female,Assistant Manager,Sales,STORE011,North,2019-01-11,Active
+EMP0041,Rakesh Iyer,Male,Store Manager,Sales,STORE002,West,Jan 03 2023,Active
+EMP0082,ANKITA MEHTA,Male,Sales Executive,Sales,STORE013,East,2023-09-09,Active
+EMP0151,Aarav Khan,Male,Sales Executive,Sales,STORE044,South,2025-05-26,Active
+EMP0138,Deepak Malhotra,Female,Senior Sales Executive,Sales,STORE012,South,2019-09-02,Active
+EMP0112,Riya Saha,Other,Operations Executive,Operations,STORE027,North,05/03/2026,Active
+EMP0131,Rahul Verma,Other,Sales Executive,Sales,STORE022,West,2025-08-18,Active
+EMP0004,Aditya Khan,Male,Sales Executive,Sales,STORE034,West,May 13 2023,Active
+EMP0044,Deepak Roy,Other,Operations Executive,Operations,STORE029,East,28/10/2024,Active
+EMP0163,Tanmay Dutta,Female,Store Manager,Sales,STORE043,North,25/09/2022,Active
+EMP0157,Moumita Saha,Other,Assistant Manager,Sales,STORE047,North,2022-05-08,Active
+EMP0167,Kavya Roy,Other,Sales Executive,Sales,STORE020,South,Dec 02 2022,Active
+EMP0189,Kavya Bose,Other,Sales Executive,Sales,STORE001,East,03/03/2023,Active
+EMP0103,Karan Bose,Female,Sales Executive,Sales,STORE021,East,Jul 30 2018,Active
+EMP0195,Nikhil Nair,Female,Sales Executive,Sales,STORE002,West,Feb 04 2019,Active
+EMP0284,Manish Agarwal,Other,Senior Sales Executive,Sales,STORE021,East,Jul 29 2020,Active
+EMP0256,Tanmay Samanta,Other,Operations Executive,Operations,STORE050,West,Dec 06 2018,Active
+EMP0086,Ananya Nair,Male,Assistant Manager,Sales,STORE046,West,21/03/2025,Active
+EMP0158,Moumita Malhotra,Male,Customer Service Executive,Customer Service,STORE030,West,2021-02-08,Active
+EMP0002,Amit Bose,Other,Inventory Executive,Operations,STORE001,East,Jan 08 2018,Active
+EMP0017,Shreya Verma,Male,Sales Executive,Sales,STORE021,East,2018-05-29,Active
+EMP0141,Vikram Das,Other,Sales Executive,Sales,STORE032,South,Sep 14 2020,Active
+EMP0159,Ankita Sen,Other,Sales Executive,Sales,STORE049,East,30/07/2022,Active
+EMP0046,Manish Reddy,Male,Sales Executive,Sales,STORE014,West,2021-06-17,Active
+EMP0200,Swati Reddy,Male,Operations Executive,Operations,STORE042,West,03/05/2019,Active
+EMP0113,Ankita Iyer,Male,Sales Executive,Sales,STORE017,East,24/01/2023,Active
+EMP0247,Aniket Samanta,Female,Regional Sales Manager,Sales,STORE048,South,Aug 14 2022,Active
+EMP0078,Sneha Malhotra,Male,Sales Executive,Sales,STORE020,South,Jun 19 2022,Active
+EMP0217,Vikram Dutta,Female,Sales Executive,Sales,STORE002,West,Jul 28 2025,Active
+EMP0016,Karan Iyer,Other,Sales Executive,Sales,STORE002,West,21/03/2024,Inactive
+EMP0259,Ishita Agarwal,Male,Senior Sales Executive,Sales,STORE050,West,2019-08-11,Active
+EMP0196,Aditya Mondal,Other,Sales Executive,Sales,STORE039,North,29/01/2026,Active
+EMP0063,Aditya Gupta,Male,Sales Executive,Sales,STORE017,East,Jul 04 2020,Active
+EMP0207,Rakesh Rao,Male,Sales Executive,Sales,STORE017,East,09/04/2020,Active
+EMP0278,Kavya Banerjee,Female,Sales Executive,Sales,STORE008,South,2021-11-05,Inactive
+EMP0152,Debasish Saha,Other,Sales Executive,Sales,STORE029,East,06/11/2023,Active
+EMP0153,Nikhil Sharma,Male,Inventory Executive,Operations,STORE012,South,Nov 26 2022,Active
+EMP0233,ANANYA MALHOTRA,Female,Assistant Manager,Sales,STORE015,North,15/06/2020,Active
+EMP0204,Sanjay Singh,Male,Store Manager,Sales,STORE024,South,Jan 20 2018,Active
+EMP0298,Kavya Singh,Female,Operations Executive,Operations,STORE044,South,08/03/2021,Inactive
+EMP0060,Tanmay Singh,Male,Senior Sales Executive,Sales,STORE022,West,2022-03-17,Active
+EMP0087,Riya Rao,Female,Sales Executive,Sales,STORE049,East,06/08/2024,Active
+EMP0272,Aarav Samanta,Male,Assistant Manager,Sales,STORE042,West,Oct 05 2023,Active
+EMP0250,Sourav Das,Male,Sales Executive,Sales,STORE012,South,2019-11-09,Active
+EMP0140,Rohan Das,Male,Sales Executive,Sales,STORE047,North,Mar 21 2024,Active
+EMP0199,Varun Malhotra,Male,Senior Sales Executive,Sales,STORE040,South,08/06/2025,Active
+EMP0184,Vikram Roy,Female,Assistant Manager,Sales,STORE001,East,2022-08-30,Active
+EMP0194,Pooja Patel,Female,Sales Executive,Sales,STORE036,South,15/09/2021,Active
+EMP0124,Varun Bose,Other,Senior Sales Executive,Sales,STORE016,South,Jul 10 2019,Active
+EMP0126,Sourav Banerjee,Other,Sales Executive,Sales,STORE014,West,Sep 29 2018,Active
+EMP0111, Manish Iyer ,Female,Senior Sales Executive,Sales,STORE023,North,2022-09-09,Active
+EMP0215,Priya Banerjee,Other,Senior Sales Executive,Sales,STORE018,West,2025-10-16,Active
+EMP0223,Karan Singh,Female,Sales Executive,Sales,STORE003,North,05/03/2026,Active
+EMP0095,Priya Das,Male,Sales Executive,Sales,STORE037,East,01/12/2020,Active
+EMP0136,Rakesh Patel,Other,Sales Executive,Sales,STORE014,West,Feb 03 2026,Active
+EMP0071,Neha Paul,Male,Senior Sales Executive,Sales,STORE026,West,03/03/2019,Active
+EMP0288,Meera Sharma,Other,Sales Executive,Sales,STORE039,North,05/03/2019,Active
+EMP0088,Aarav Rao,Male,Sales Executive,Sales,STORE001,East,Aug 13 2022,Inactive
+EMP0079,Sneha Bose,Other,Store Manager,Sales,STORE025,East,03/05/2019,Active
+EMP0043,Neha Sen,Male,Customer Service Executive,Customer Service,STORE038,West,2019-07-11,Active
+EMP0061,Aniket Nair,Other,Senior Sales Executive,Sales,STORE046,West,2020-03-24,Active
+EMP0122,Karan Das,Other,Sales Executive,Sales,STORE025,East,2024-04-25,Active
+EMP0164,Vikram Ghosh,Male,Sales Executive,Sales,STORE015,North,Sep 14 2019,Active
+EMP0127,Sayan Mondal,Female,Customer Service Executive,Customer Service,STORE015,North,2022-10-18,Active
+EMP0290,Debasish Malhotra,Male,Sales Executive,Sales,STORE036,South,2022-11-18,On Leave
+EMP0221,Tanmoy Mukherjee,Other,Sales Executive,Sales,STORE022,West,Dec 31 2018,Active
+EMP0249,Sanjay Reddy,Male,Operations Executive,Operations,STORE045,East,Feb 21 2024,Active
+EMP0045,Priya Sen,Male,Sales Executive,Sales,STORE043,North,14/02/2022,Active
+EMP0266,Rohan Sharma,Male,Senior Sales Executive,Sales,STORE010,West,Aug 30 2019,Active
+EMP0255,Varun Khan,Female,Store Manager,Sales,STORE036,South,Nov 27 2024,Active
+EMP0185,Arjun Sen,Female,Assistant Manager,Sales,STORE007,North,05/12/2020,Active
+EMP0269,Moumita Ghosh,Other,Customer Service Executive,Customer Service,STORE039,North,2023-11-08,Active
+EMP0188,Debasish Rao,Female,Sales Executive,Sales,STORE027,North,Jan 20 2023,Active
+EMP0033,Vikram Gupta,Other,Sales Executive,Sales,STORE043,North,Apr 19 2023,Active
+EMP0263,Aniket Mondal,Other,Sales Executive,Sales,STORE050,West,Nov 24 2025,Active
+EMP0003,Sayan Das,Female,Sales Executive,Sales,STORE011,North,2022-08-13,Active
+EMP0228,NIKHIL IYER,Other,Customer Service Executive,Customer Service,STORE030,West,02/09/2025,Active
+EMP0211,Pooja Banerjee,Female,Operations Executive,Operations,STORE007,North,25/04/2024,Active
+EMP0289,Shreya Khan,Male,Operations Executive,Operations,STORE045,East,2018-09-03,Active
+EMP0160,Moumita Mukherjee,Male,Sales Executive,Sales,STORE005,East,Jul 23 2019,Active
+EMP0176,Pooja Agarwal,Male,Sales Executive,Sales,STORE049,East,Jul 23 2023,Active
+EMP0028,Rahul Das,Other,Sales Executive,Sales,STORE040,South,Mar 22 2022,Active
+EMP0254,Amit Bose,Female,Assistant Manager,Sales,STORE008,South,2023-10-25,Active
+EMP0296,Vikram Reddy,Other,Sales Executive,Sales,STORE004,South,Dec 07 2020,Active
+EMP0203,Swati Gupta,Male,Sales Executive,Sales,STORE006,West,25/12/2023,Active
+EMP0150,Meera Agarwal,Male,Senior Sales Executive,Sales,STORE026,West,20/11/2023,Active
+EMP0080,Tanmoy Dutta,Other,Sales Executive,Sales,STORE035,North,18/01/2018,Active
+EMP0206,Akash Malhotra,Other,Senior Sales Executive,Sales,STORE017,East,25/08/2021,Active
+EMP0123,Riya Samanta,Male,Operations Executive,Operations,STORE008,South,Sep 10 2024,Active
+EMP0052,Manish Singh,Male,Senior Sales Executive,Sales,STORE029,East,May 04 2022,Active
+EMP0120,Aniket Dutta,Other,Sales Executive,Sales,STORE038,West,27/04/2019,Active
+EMP0021,Deepak Khan,Other,Sales Executive,Sales,STORE016,South,Oct 27 2024,Active

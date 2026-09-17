@@ -1,0 +1,516 @@
+﻿ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice,Supplier,LaunchDate,ProductStatus
+PROD00359,Comfort Sofa Premium 4,Furniture,Sofa,Lenovo,36540.00,58800.00,South India Distribution,2023-08-17,Active
+PROD00490,PowerGuard 1000 5,Office Equipment,UPS, Voltas ,67030.00,84200.00,Metro Wholesale,23/10/2025,Active
+PROD00158,PowerCharge GaN 3,Mobile & Accessories,Charger,Godrej,1220.00,1500.00,Eastern Trade Links,2022-04-15,Active
+PROD00373,BookSpace Wide 3,Furniture,Bookshelf,NexTech,23260.00,32500.00,Metro Wholesale,2025-12-29,Active
+PROD00154,FastCharge 65W 4,Mobile & Accessories,Charger,Whirlpool,21200.00,32300.00,Global Tech Distributors,2023-10-05,Active
+PROD00369,BookSpace 5Tier 4,Furniture,Bookshelf,Lenovo,17410.00,21900.00,Prime Distribution India,2024-05-30,Active
+PROD00131,AirSound Mini 1,Mobile & Accessories,Earbuds,IFB,3680.00,4400.00,Metro Wholesale,2023-01-27,Active
+PROD00444,VisionCast 3000 4,OFFICE EQUIPMENT,Projector,IFB,31230.00,49600.00,Eastern Trade Links,2024-07-09,Active
+PROD00309,ErgoOffice Pro 4,Furniture,Office Chair,Acer,12060.00,17600.00,Eastern Trade Links,2022-10-21,Active
+PROD00269,HeatWave 25L 4,Home Appliances,Microwave,IFB,62670.00,93600.00,Western Trade House,2024-03-04,Active
+PROD00268,HeatWave 25L 3,Home Appliances,Microwave,Whirlpool,80050.00,93500.00,Bharat Electronics Supply,2022-04-05,Active
+PROD00500,PowerGuard Online 5,Office Equipment,UPS,Asus,51280.00,60300.00,Western Trade House,2025-02-02,Active
+PROD00047,SmartView 55 2,Electronics,Television,Boat,28440.00,33400.00,South India Distribution,2026-01-06,Active
+PROD00118,NexPhone Lite 3,Mobile & Accessories,Smartphone,Ikea,35540.00,45200.00,Eastern Trade Links,2022-06-09,Discontinued
+PROD00454,VISIONCAST MINI 4,Office Equipment,Projector,LG,54350.00,62600.00,Metro Wholesale,2023-02-01,Active
+PROD00274,heatwave grill 4,Home Appliances,Microwave,Epson,29660.00,39000.00,Metro Wholesale,2024-11-26,Active
+PROD00171,PowerGo Slim 1,Mobile & Accessories,Power Bank,Logitech,46340.00,68400.00,Eastern Trade Links,2024-08-29,Active
+PROD00144,FastCharge 20W 4,Mobile & Accessories,Charger,Asus,34460.00,39600.00,Western Trade House,2025-04-23,Active
+PROD00156,POWERCHARGE GAN 1,MOBILE & ACCESSORIES,Charger,Sony,58420.00,74500.00,Western Trade House,2023-03-21,Active
+PROD00033,ViewMax Ultra 32 3,Electronics,Monitor,NexTech,54370.00,71900.00,Urban Retail Supply,2025-10-30,Active
+PROD00498,PowerGuard Online 3,Office Equipment,UPS,Logitech,58540.00,92300.00,Global Tech Distributors,2024-08-16,Active
+PROD00325,WorkDesk 120 5,Furniture,Desk,NexTech,16650.00,26600.00,Western Trade House,2022-08-30,Active
+PROD00457,VisionCast Pro 2,Office Equipment,Projector,Epson,47870.00,70200.00,,2022-04-18,Active
+PROD00259,WashPro FrontLoad 4,Home Appliances,Washing Machine,Asus,23190.00,30500.00,Prime Distribution India,2025-11-03,Active
+PROD00249,WashPro 7KG 4,Home Appliances,Washing Machine,LG,27810.00,40700.00,National Consumer Products,2022-07-04,Active
+PROD00054,SmartView 65 4,Electronics,Television,Sony,69670.00,94900.00,Bharat Electronics Supply,2023-12-19,Active
+PROD00298,BreezeCool Desert 3,Home Appliances,Air Cooler,Godrej,52350.00,67800.00,Urban Retail Supply,2024-11-27,Active
+PROD00101,NexPhone X1 1,Mobile & Accessories,Smartphone,Lenovo,44390.00,56300.00,Global Tech Distributors,2023-11-08,Active
+PROD00247,WashPro 7KG 2,Home Appliances,Washing Machine,Lenovo,36200.00,42700.00,Metro Wholesale,20/10/2025,Active
+PROD00493,PowerGuard 1500 3,Office Equipment,UPS,Godrej,19960.00,26100.00,Bharat Electronics Supply,2024-08-04,Active
+PROD00304,ErgoOffice Basic 4,Furniture,Office Chair,Dell,36870.00,43900.00,Eastern Trade Links,2023-08-26,Active
+PROD00015,NexBook Business 15 5,Electronics,Laptop,Dyson,73690.00,96800.00,Western Trade House,2024-08-19,Active
+PROD00237,PowerCool Inverter 2,Home Appliances,Air Conditioner,NexTech,13280.00,16000.00,Global Tech Distributors,2024-03-01,Active
+PROD00212,CoolMax DoubleDoor 2,Home Appliances,Refrigerator,Logitech,35390.00,43200.00,Western Trade House,2025-05-23,Active
+PROD00013,NexBook Business 15 3,Electronics,Laptop,Samsung,72460.00,97400.00,South India Distribution,2025-10-05,Active
+PROD00271,HeatWave Grill 1,Home Appliances,Microwave,Sony,82240.00,95000.00,,2022-09-23,Active
+PROD00341,Comfort Sofa 2S 1,Furniture,Sofa,HP,20680.00,28000.00,Prime Distribution India,2024-09-18,Active
+PROD00485,PowerGuard 600 5,Office Equipment,UPS,Whirlpool,1980.00,2800.00,Metro Wholesale,2025-08-04,Active
+PROD00037,ViewMax Office 22 2,Electronics,Monitor,Lenovo,57510.00,89800.00,Prime Distribution India,2022-04-03,Active
+PROD00329,WorkDesk 150 4,Furniture,Desk,Dell,42950.00,50500.00,Eastern Trade Links,2026-01-14,Active
+PROD00061,PixelShot 200 1,Electronics,Camera,IFB,22690.00,30900.00,Eastern Trade Links,2026-01-17,Discontinued
+PROD00390,OfficeCab 3Door 5,Furniture,Cabinet,Voltas,19650.00,26400.00,Eastern Trade Links,2023-12-26,Discontinued
+PROD00112,NexPhone Pro 2,Mobile & Accessories,Smartphone,Epson,28860.00,43600.00,Eastern Trade Links,2022-03-17,Active
+PROD00137,AirSound Max 2,Mobile & Accessories,Earbuds,HP,19540.00,27400.00,Global Tech Distributors,2023-01-23,Active
+PROD00293,BreezeCool Tower 3,Home Appliances,Air Cooler,Dell,46550.00,66300.00,Metro Wholesale,2022-07-26,Active
+PROD00172,PowerGo Slim 2,Mobile & Accessories,Power Bank,Ikea,35880.00,43000.00,Prime Distribution India,2025-01-31,Active
+PROD00286,BreezeCool 30L 1,Home Appliances,Air Cooler,Whirlpool,18920.00,24300.00,Global Tech Distributors,2024-06-26,Discontinued
+PROD00244,WashPro 6KG 4,Home Appliances,Washing Machine,Whirlpool,66920.00,107100.00,Western Trade House,2024-12-30,Active
+PROD00021,ViewMax 24 1,Electronics,Monitor,Whirlpool,35390.00,46500.00,Western Trade House,2022-07-21,Active
+PROD00006,NexBook Air 13 1,Electronics,Laptop,Godrej,76740.00,102800.00,Metro Wholesale,2022-06-06,Active
+PROD00241,WashPro 6KG 1,Home Appliances,Washing Machine,Dell,20940.00,24900.00,Metro Wholesale,2025-02-05,Active
+PROD00010,NexBook Air 13 5,Electronics,Laptop,Philips,47930.00,71400.00,Global Tech Distributors,2025-05-14,Active
+PROD00143,FastCharge 20W 3,Mobile & Accessories,Charger,Canon,49060.00,62100.00,Metro Wholesale,2024-12-12,Active
+PROD00358,Comfort Sofa Premium 3,Furniture,Sofa,Canon,23050.00,31800.00,Urban Retail Supply,2022-06-23,Active
+PROD00471,SecureCut CrossCut 1,Office Equipment,Shredder,Logitech,55040.00,79900.00,South India Distribution,2024-07-04,Active
+PROD00099,SoundBeat Home 4,Electronics,Speaker,Boat,78570.00,98900.00,Bharat Electronics Supply,2024-04-18,Active
+PROD00017,NEXBOOK STUDIO 16 2,Electronics,Laptop,Epson,71830.00,110500.00,Apex Supply Co,2024-06-05,Active
+PROD00134,AirSound Mini 4,Mobile & Accessories,Earbuds,Voltas,17650.00,28100.00,Western Trade House,2025-07-12,Active
+PROD00170,PowerGo 20000 5,Mobile & Accessories,Power Bank,Canon,11200.00,12800.00,Eastern Trade Links,2022-06-02,Active
+PROD00166,PowerGo 20000 1,Mobile & Accessories,Power Bank,Acer,43740.00,65600.00,Western Trade House,2025-01-14,Active
+PROD00189,NexWatch Pro 4,Mobile & Accessories,Smartwatch,Asus,30320.00,46300.00,Western Trade House,2024-07-15,Active
+PROD00383,OfficeCab 2Door 3,Furniture,Cabinet,Dyson,28500.00,42500.00,Metro Wholesale,2022-12-03,Discontinued
+PROD00051,SmartView 65 1,Electronics,Television,IFB,30030.00,41300.00,Urban Retail Supply,2022-05-11,Active
+PROD00265,HeatWave 20L 5,Home Appliances,Microwave,Acer,63890.00,98400.00,National Consumer Products,2023-11-09,Active
+PROD00365,BookSpace 4Tier 5,Furniture,Bookshelf,HP,43980.00,60000.00,Prime Distribution India,2024-09-28,Active
+PROD00093,SoundBeat Tower 3,Electronics,Speaker,Godrej,38450.00,46100.00,Urban Retail Supply,2024-08-06,Active
+PROD00206,CoolMax 350L 1,Home Appliances,Refrigerator,Philips,8190.00,10700.00,Urban Retail Supply,2022-05-06,Active
+PROD00442,VisionCast 3000 2,Office Equipment,Projector,Voltas,8780.00,14000.00,Prime Distribution India,2025-07-14,Active
+PROD00323,WorkDesk 120 3,Furniture,Desk,Asus,14310.00,16800.00,Prime Distribution India,2022-06-06,Active
+PROD00313,ErgoOffice Executive 3,Furniture,Office Chair,Godrej,37220.00,43700.00,Urban Retail Supply,2022-07-12,Active
+PROD00335,WorkDesk Executive 5,Furniture,Desk,Dyson,40870.00,48700.00,Apex Supply Co,2025-07-10,Active
+PROD00367,BookSpace 5Tier 2,Furniture,Bookshelf,HP,4660.00,6200.00,Urban Retail Supply,2022-12-17,Active
+PROD00489,PowerGuard 1000 4,Office Equipment,UPS,LG,17090.00,26300.00,Urban Retail Supply,2024-10-13,Active
+PROD00020,NexBook Studio 16 5,Electronics,Laptop,JBL,70180.00,105500.00,Prime Distribution India,2024-06-08,Active
+PROD00221,PowerCool 1.0T 1,Home Appliances,Air Conditioner,Voltas,36570.00,53100.00,Prime Distribution India,2023-05-30,Active
+PROD00303,ErgoOffice Basic 3,Furniture,Office Chair,HP,2600.00,3500.00,Apex Supply Co,04/01/2026,Discontinued
+PROD00366,BookSpace 5Tier 1,Furniture,Bookshelf,Ikea,7710.00,10800.00,South India Distribution,2025-06-23,Active
+PROD00110,NexPhone X2 5,Mobile & Accessories,Smartphone,Samsung,18420.00,25000.00,Bharat Electronics Supply,2024-11-17,Discontinued
+PROD00247,WASHPRO 7KG 2,Home Appliances,Washing Machine,Lenovo,36200.00,42700.00,Metro Wholesale,20/10/2025,Active
+PROD00046,SmartView 55 1,Electronics,Television,NexTech,33720.00,51100.00,South India Distribution,2023-12-22,Active
+PROD00119,NexPhone Lite 4,Mobile & Accessories,Smartphone,Asus,52050.00,69900.00,South India Distribution,2024-02-24,Active
+PROD00497,PowerGuard Online 2,OFFICE EQUIPMENT,UPS,NexTech,54750.00,82800.00,Bharat Electronics Supply,2023-03-08,Active
+PROD00266,HeatWave 25L 1,Home Appliances,Microwave,Asus,23200.00,27000.00,National Consumer Products,2022-12-27,Active
+PROD00187,NexWatch Pro 2,Mobile & Accessories,Smartwatch,Acer,43350.00,51200.00,Global Tech Distributors,2023-11-18,Active
+PROD00027,ViewMax 27 2,Electronics,Monitor,Dell,4550.00,5700.00,Bharat Electronics Supply,2025-04-09,Active
+PROD00023,ViewMax 24 3,Electronics,Monitor,LG,72960.00,90000.00,National Consumer Products,17/10/2024,Active
+PROD00425,ScanFast 200 5,Office Equipment,Scanner,Sony,32360.00,44300.00,Bharat Electronics Supply,2024-10-18,Active
+PROD00458,VisionCast Pro 3,Office Equipment,Projector,Ikea,63570.00,86400.00,Metro Wholesale,2025-09-16,Active
+PROD00320,ErgoOffice Mesh 5,Furniture,Office Chair,HP,33810.00,52500.00,Urban Retail Supply,2023-07-08,Active
+PROD00465,securecut 10 5,Office Equipment,Shredder,Epson,17270.00,22300.00,Eastern Trade Links,2023-07-19,Active
+PROD00314,ErgoOffice Executive 4,Furniture,Office Chair,Godrej,4950.00,6500.00,National Consumer Products,2022-02-10,Active
+PROD00064,PixelShot 200 4,Electronics,Camera,Philips,43240.00,55300.00,Eastern Trade Links,2024-05-12,Active
+PROD00160,PowerCharge GaN 5,Mobile & Accessories,Charger,Lenovo,55980.00,83400.00,Bharat Electronics Supply,2025-02-25,Active
+PROD00428,ScanFast 400 3,Office Equipment,Scanner,HP,29150.00,37200.00,Bharat Electronics Supply,2025-02-01,Active
+PROD00156,PowerCharge GaN 1,MOBILE & ACCESSORIES,Charger,Sony,58420.00,74500.00,Western Trade House,2023-03-21,Active
+PROD00181,NexWatch Fit 1,Mobile & Accessories,Smartwatch,Whirlpool,15930.00,20400.00,South India Distribution,2025-07-04,Active
+PROD00140,AirSound Max 5,Mobile & Accessories,Earbuds,Voltas,40370.00,64700.00,Western Trade House,2022-08-09,Active
+PROD00117,NexPhone Lite 2,Mobile & Accessories,Smartphone,LG,42300.00,67500.00,Urban Retail Supply,2025-05-05,Active
+PROD00126,SoundBeat Buds Pro 1,Mobile & Accessories,Earbuds, Voltas ,13320.00,17500.00,Eastern Trade Links,2023-01-18,Active
+PROD00473,SecureCut CrossCut 3,Office Equipment,Shredder,Godrej,6790.00,8000.00,Bharat Electronics Supply,2025-05-04,Active
+PROD00071,PixelShot Pro 1,Electronics,Camera,Godrej,61180.00,97700.00,Apex Supply Co,2023-04-22,Active
+PROD00436,ScanFast Pro 1,Office Equipment,Scanner,Voltas,58580.00,92600.00,Apex Supply Co,2022-02-18,Active
+PROD00467,SecureCut 15 2,Office Equipment,Shredder,LG,33410.00,53700.00,Bharat Electronics Supply,2023-11-25,Active
+PROD00148,FastCharge 45W 3,Mobile & Accessories,Charger,NexTech,4660.00,6800.00,Western Trade House,2022-05-26,Active
+PROD00399,OfficeCab Storage 4,FURNITURE,Cabinet,Dyson,34190.00,39700.00,Apex Supply Co,2022-01-23,Active
+PROD00184,NexWatch Fit 4,MOBILE & ACCESSORIES,Smartwatch,Asus,40710.00,59200.00,Urban Retail Supply,2024-04-20,Active
+PROD00290,BreezeCool 30L 5,Home Appliances,Air Cooler,Epson,3410.00,5200.00,Eastern Trade Links,2024-10-18,Active
+PROD00210,CoolMax 350L 5,Home Appliances,Refrigerator,Sony,,93600.00,Metro Wholesale,2022-06-05,Active
+PROD00345,Comfort Sofa 2S 5,Furniture,Sofa,Philips,17430.00,28000.00,Global Tech Distributors,2022-01-09,Active
+PROD00070,PixelShot 400 5,Electronics,Camera,Dyson,27880.00,36800.00,Eastern Trade Links,2023-03-31,Active
+PROD00344,Comfort Sofa 2S 4,Furniture,Sofa,HP,3350.00,4200.00,Eastern Trade Links,2025-01-09,Active
+PROD00397,OfficeCab Storage 2,Furniture,Cabinet,Asus,11900.00,17000.00,Bharat Electronics Supply,2024-10-04,Active
+PROD00326,WorkDesk 150 1,Furniture,Desk,Dell,29770.00,41900.00,National Consumer Products,2022-08-28,Active
+PROD00152,FastCharge 65W 2,Mobile & Accessories,Charger,Sony,58830.00,77800.00,Prime Distribution India,2024-02-21,Active
+PROD00069,PixelShot 400 4,Electronics,Camera,Asus,35560.00,49700.00,Prime Distribution India,13/10/2023,Active
+PROD00386,OfficeCab 3Door 1,Furniture,Cabinet,Dyson,14500.00,17600.00,Bharat Electronics Supply,2024-02-23,Active
+PROD00331,WORKDESK EXECUTIVE 1,Furniture,Desk,Lenovo,23250.00,34500.00,Global Tech Distributors,2024-12-26,Active
+PROD00439,ScanFast Pro 4,Office Equipment,Scanner,Boat,25650.00,32600.00,Eastern Trade Links,2025-06-07,Discontinued
+PROD00469,SecureCut 15 4,Office Equipment,Shredder,Voltas,53150.00,75500.00,Western Trade House,2025-12-27,Active
+PROD00441,VisionCast 3000 1,Office Equipment,Projector,Godrej,33130.00,48200.00,Urban Retail Supply,2023-09-17,Active
+PROD00299,BreezeCool Desert 4,Home Appliances,Air Cooler,Logitech,52480.00,63300.00,Eastern Trade Links,2025-01-28,Active
+PROD00039,ViewMax Office 22 4,Electronics,Monitor,Dell,66500.00,89600.00,Eastern Trade Links,2024-11-24,Active
+PROD00226,PowerCool 1.5T 1,Home Appliances,Air Conditioner,Havells,55730.00,73200.00,Western Trade House,2025-10-16,Active
+PROD00355,comfort sofa lshape 5,Furniture,Sofa,Dell,4120.00,5900.00,Apex Supply Co,10/11/2022,Active
+PROD00230,PowerCool 1.5T 5,Home Appliances,Air Conditioner,NexTech,69060.00,101600.00,Urban Retail Supply,2023-08-11,Active
+PROD00317,ErgoOffice Mesh 2,Furniture,Office Chair,IFB,46840.00,58800.00,Urban Retail Supply,2022-05-15,Active
+PROD00423,ScanFast 200 3,Office Equipment,Scanner,Lenovo,15430.00,20200.00,Apex Supply Co,2024-09-14,Active
+PROD00464,SecureCut 10 4,Office Equipment,Shredder,NexTech,30420.00,36800.00,Metro Wholesale,2022-04-04,Active
+PROD00083,SoundBeat Mini 3,ELECTRONICS,Speaker,Voltas,75660.00,111400.00,Western Trade House,2025-01-05,Active
+PROD00045,SmartView 43 5,Electronics,Television,Canon,,89600.00,Eastern Trade Links,2025-01-21,Active
+PROD00459,VisionCast Pro 4,Office Equipment,Projector,Dell,38120.00,46600.00,Eastern Trade Links,2025-02-15,Active
+PROD00270,HeatWave 25L 5,Home Appliances,Microwave,Philips,79900.00,100100.00,Apex Supply Co,2022-07-07,Active
+PROD00360,Comfort Sofa Premium 5,Furniture,Sofa,Ikea,21670.00,28300.00,Eastern Trade Links,2025-08-06,Active
+PROD00003,NexBook Pro 14 3,Electronics,Laptop,Epson,70210.00,103400.00,South India Distribution,2024-06-22,Active
+PROD00252,WashPro 8KG 2,Home Appliances,Washing Machine,Boat,72210.00,100300.00,South India Distribution,2022-03-29,Active
+PROD00462,SecureCut 10 2,Office Equipment,Shredder,HP,45740.00,60300.00,Apex Supply Co,2022-09-27,Active
+PROD00486,PowerGuard 1000 1,Office Equipment,UPS,Voltas,25160.00,30200.00,Bharat Electronics Supply,2024-04-30,Active
+PROD00086,SoundBeat Pro 1,Electronics,Speaker, LG ,42630.00,53200.00,South India Distribution,2024-12-25,Active
+PROD00395,OfficeCab Filing 5,Furniture,Cabinet,Dyson,19800.00,27800.00,Apex Supply Co,2025-01-12,Active
+PROD00350,Comfort Sofa 3S 5,Furniture,Sofa,Epson,7060.00,8300.00,Western Trade House,2022-02-23,Active
+PROD00114,NexPhone Pro 4,Mobile & Accessories,Smartphone,Lenovo,39550.00,48900.00,National Consumer Products,2026-02-08,Active
+PROD00296,BreezeCool Desert 1,Home Appliances,Air Cooler,Epson,37680.00,47200.00,Prime Distribution India,2025-01-20,Discontinued
+PROD00318,ErgoOffice Mesh 3,Furniture,Office Chair,Sony,4070.00,5900.00,Bharat Electronics Supply,2022-04-19,Active
+PROD00422,ScanFast 200 2,Office Equipment,Scanner,Logitech,64420.00,77300.00,Western Trade House,2025-06-05,Active
+PROD00495,PowerGuard 1500 5,Office Equipment,UPS,Godrej,56460.00,79600.00,Apex Supply Co,2023-02-08,Active
+PROD00132,AirSound Mini 2,Mobile & Accessories,Earbuds,Philips,47620.00,57500.00,Bharat Electronics Supply,2022-12-16,Active
+PROD00098,SoundBeat Home 3,Electronics,Speaker,Asus,31780.00,43500.00,Prime Distribution India,2025-07-20,Active
+PROD00116,NexPhone Lite 1,Mobile & Accessories,Smartphone,Ikea,48000.00,70500.00,South India Distribution,2023-09-04,Discontinued
+PROD00400,OfficeCab Storage 5,Furniture,Cabinet,LG,28110.00,36600.00,National Consumer Products,2022-05-19,Discontinued
+PROD00174,PowerGo Slim 4,Mobile & Accessories,Power Bank,IFB,43050.00,67800.00,South India Distribution,2022-06-20,Active
+PROD00419,PrintPro Color 4,Office Equipment,Printer,IFB,48750.00,61600.00,Bharat Electronics Supply,2023-10-03,Active
+PROD00240,PowerCool Inverter 5,Home Appliances,Air Conditioner,Sony,63450.00,73700.00,Urban Retail Supply,2023-04-07,Active
+PROD00380,BookSpace Compact 5,Furniture,Bookshelf,Godrej,5260.00,6700.00,Urban Retail Supply,2023-12-28,Discontinued
+PROD00435,ScanFast Duplex 5,Office Equipment,Scanner,Boat,40350.00,51900.00,Eastern Trade Links,2025-08-25,Active
+PROD00470,SecureCut 15 5,Office Equipment,Shredder,Voltas,49100.00,72500.00,Eastern Trade Links,2023-02-03,Active
+PROD00403,PrintPro 120 3,Office Equipment,Printer,Ikea,31060.00,49100.00,Metro Wholesale,2026-02-04,Active
+PROD00438,ScanFast Pro 3,Office Equipment,Scanner,HP,34430.00,53400.00,Urban Retail Supply,2025-07-02,Discontinued
+PROD00176,PowerGo Pro 1,Mobile & Accessories,Power Bank,Havells,53580.00,76200.00,Western Trade House,2025-03-06,Active
+PROD00139,AirSound Max 4,Mobile & Accessories,Earbuds,Whirlpool,37740.00,48600.00,Apex Supply Co,2024-09-03,Active
+PROD00392,OfficeCab Filing 2,Furniture,Cabinet,LG,24560.00,36600.00,Apex Supply Co,2024-05-13,Active
+PROD00025,ViewMax 24 5,Electronics,Monitor,Logitech,48840.00,76600.00,,2022-06-20,Active
+PROD00379,BookSpace Compact 4,Furniture,Bookshelf,IFB,31750.00,49200.00,Apex Supply Co,2023-08-09,Discontinued
+PROD00253,WashPro 8KG 3,Home Appliances,Washing Machine,Epson,69500.00,92300.00,Urban Retail Supply,2024-05-28,Active
+PROD00349,Comfort Sofa 3S 4,Furniture,Sofa,Canon,21490.00,29400.00,South India Distribution,2023-05-24,Active
+PROD00311,ErgoOffice Executive 1,Furniture,Office Chair,Dyson,24750.00,33300.00,Global Tech Distributors,2022-10-15,Discontinued
+PROD00275,HeatWave Grill 5,Home Appliances,Microwave,Boat,15730.00,19400.00,Eastern Trade Links,2023-06-30,Active
+PROD00106,NexPhone X2 1,Mobile & Accessories,Smartphone,Dyson,42200.00,49100.00,Prime Distribution India,2025-11-19,Active
+PROD00024,ViewMax 24 4,Electronics,Monitor, Philips ,18470.00,24200.00,,2022-01-29,Active
+PROD00100,SoundBeat Home 5,Electronics,Speaker,Ikea,83060.00,116100.00,Western Trade House,2025-09-29,Active
+PROD00146,FastCharge 45W 1,Mobile & Accessories,Charger,Havells,46880.00,63400.00,Eastern Trade Links,2022-11-10,Active
+PROD00094,SoundBeat Tower 4,Electronics,Speaker,Voltas,38960.00,58700.00,Eastern Trade Links,2025-04-23,Active
+PROD00219,FrostFree Pro 4,Home Appliances,Refrigerator,Godrej,77650.00,91100.00,Global Tech Distributors,2024-02-03,Active
+PROD00387,OfficeCab 3Door 2,Furniture,Cabinet,Logitech,15400.00,23400.00,Urban Retail Supply,2022-07-16,Active
+PROD00479,SecureCut Pro 4,Office Equipment,Shredder,IFB,25250.00,36800.00,Apex Supply Co,2023-07-24,Active
+PROD00404,PrintPro 120 4,Office Equipment,Printer,JBL,6700.00,9700.00,Western Trade House,2023-12-18,Active
+PROD00186,NexWatch Pro 1,Mobile & Accessories,Smartwatch,Godrej,19760.00,30200.00,Metro Wholesale,2025-09-23,Active
+PROD00245,WashPro 6KG 5,Home Appliances,Washing Machine, Voltas ,22320.00,32200.00,Prime Distribution India,2024-08-28,Active
+PROD00255,WashPro 8KG 5,HOME APPLIANCES,Washing Machine,Voltas,82960.00,107000.00,Prime Distribution India,2022-06-15,Active
+PROD00377,BookSpace Compact 2,Furniture,Bookshelf,Havells,16080.00,24200.00,Global Tech Distributors,2025-12-09,Discontinued
+PROD00088,SoundBeat Pro 3,Electronics,Speaker,Godrej,28350.00,39400.00,Bharat Electronics Supply,2025-08-19,Active
+PROD00340,WORKDESK COMPACT 5,Furniture,Desk,Acer,14470.00,17500.00,South India Distribution,2024-08-11,Discontinued
+PROD00149,FastCharge 45W 4,Mobile & Accessories,Charger,Sony,30930.00,44600.00,,2023-09-21,Discontinued
+PROD00151,FastCharge 65W 1,Mobile & Accessories,Charger,Philips,4590.00,6100.00,National Consumer Products,2025-05-04,Active
+PROD00205,CoolMax 250L 5,Home Appliances,Refrigerator,Boat,66730.00,106800.00,Bharat Electronics Supply,2022-09-26,Active
+PROD00429,ScanFast 400 4,Office Equipment,Scanner,Epson,13880.00,16900.00,Apex Supply Co,2026-01-31,Active
+PROD00129,SoundBeat Buds Pro 4,Mobile & Accessories,Earbuds,Canon,45340.00,54000.00,Western Trade House,2023-10-27,Active
+PROD00388,OfficeCab 3Door 3,Furniture,Cabinet,Whirlpool,9560.00,11800.00,Western Trade House,2023-09-14,Active
+PROD00281,BreezeCool 20L 1,Home Appliances,Air Cooler,Samsung,24900.00,28600.00,Bharat Electronics Supply,2024-12-11,Discontinued
+PROD00378,BookSpace Compact 3,Furniture,Bookshelf,LG,39050.00,62700.00,South India Distribution,2022-05-25,Active
+PROD00138,AirSound Max 3,Mobile & Accessories,Earbuds,NexTech,45430.00,72400.00,Apex Supply Co,2025-08-20,Active
+PROD00031,ViewMax Ultra 32 1,Electronics,Monitor,Lenovo,47580.00,54300.00,Metro Wholesale,2022-08-06,Active
+PROD00155,FastCharge 65W 5,Mobile & Accessories,Charger,Logitech,3230.00,4100.00,Western Trade House,2024-11-30,Active
+PROD00128,SoundBeat Buds Pro 3,Mobile & Accessories,Earbuds,NexTech,32980.00,40100.00,Metro Wholesale,2024-01-16,Active
+PROD00077,PixelShot Mirrorless 2,Electronics,Camera, NexTech ,61680.00,74900.00,South India Distribution,2025-11-25,Active
+PROD00201,CoolMax 250L 1,Home Appliances,Refrigerator,Philips,26520.00,33300.00,Metro Wholesale,2022-01-08,Active
+PROD00443,VisionCast 3000 3,Office Equipment,Projector,NexTech,73220.00,84100.00,Global Tech Distributors,2022-05-20,Active
+PROD00019,NexBook Studio 16 4,ELECTRONICS,Laptop,Epson,33430.00,52200.00,Bharat Electronics Supply,2023-06-17,Active
+PROD00215,CoolMax DoubleDoor 5,Home Appliances,Refrigerator,Canon,18810.00,23900.00,Apex Supply Co,2024-11-25,Active
+PROD00451,VisionCast Mini 1,Office Equipment,Projector,Asus,29190.00,38900.00,Metro Wholesale,2023-09-24,Active
+PROD00475,SecureCut CrossCut 5,Office Equipment,Shredder,Acer,51600.00,67200.00,Metro Wholesale,2025-04-04,Active
+PROD00328,WorkDesk 150 3,Furniture,Desk,JBL,19890.00,28900.00,Urban Retail Supply,2022-05-15,Active
+PROD00287,BreezeCool 30L 2,Home Appliances,Air Cooler,Epson,12200.00,15400.00,South India Distribution,2023-12-21,Active
+PROD00191,NexWatch Active 1,Mobile & Accessories,Smartwatch,Ikea,65090.00,76800.00,Prime Distribution India,2024-02-08,Active
+PROD00180,PowerGo Pro 5,Mobile & Accessories,Power Bank, Whirlpool ,15480.00,20000.00,South India Distribution,2023-06-01,Active
+PROD00197,NexWatch Classic 2,Mobile & Accessories,Smartwatch,Voltas,3830.00,4500.00,South India Distribution,2023-03-17,Active
+PROD00257,WashPro FrontLoad 2,Home Appliances,Washing Machine,Epson,14140.00,21600.00,Urban Retail Supply,2024-08-26,Active
+PROD00043,SmartView 43 3,Electronics,Television,IFB,55170.00,73100.00,Western Trade House,2022-09-03,Active
+PROD00196,NexWatch Classic 1,Mobile & Accessories,Smartwatch,Havells,31840.00,48400.00,Global Tech Distributors,2023-05-15,Active
+PROD00203,CoolMax 250L 3,Home Appliances,Refrigerator,Lenovo,78810.00,107100.00,Eastern Trade Links,2024-09-21,Active
+PROD00384,OfficeCab 2Door 4,Furniture,Cabinet,Boat,33330.00,44500.00,South India Distribution,2022-05-02,Active
+PROD00040,ViewMax Office 22 5,Electronics,Monitor,HP,60560.00,91700.00,Western Trade House,2024-03-09,Active
+PROD00053,SmartView 65 3,Electronics,Television,Philips,6060.00,7000.00,Metro Wholesale,2023-04-27,Active
+PROD00238,PowerCool Inverter 3,Home Appliances,Air Conditioner,LG,2980.00,3800.00,Western Trade House,2025-10-04,Active
+PROD00477,SecureCut Pro 2,Office Equipment,Shredder,Dell,20950.00,26900.00,Global Tech Distributors,2025-12-16,Active
+PROD00351,Comfort Sofa LShape 1,Furniture,Sofa,Havells,40500.00,54000.00,Eastern Trade Links,2025-10-02,Active
+PROD00052,SmartView 65 2,Electronics,Television, HP ,31890.00,39200.00,Apex Supply Co,2022-01-29,Active
+PROD00092,SoundBeat Tower 2,Electronics,Speaker,Boat,38610.00,48500.00,Bharat Electronics Supply,2026-01-22,Active
+PROD00322,WorkDesk 120 2,Furniture,Desk,Dyson,18190.00,29100.00,Urban Retail Supply,2022-02-02,Active
+PROD00057,smartview 75 2,Electronics,Television,Ikea,35430.00,54000.00,Apex Supply Co,2025-10-27,Discontinued
+PROD00224,PowerCool 1.0T 4,Home Appliances,Air Conditioner, Asus ,42350.00,52800.00,National Consumer Products,2025-12-24,Active
+PROD00483,PowerGuard 600 3,OFFICE EQUIPMENT,UPS,Boat,11800.00,13900.00,National Consumer Products,2024-11-02,Active
+PROD00292,BreezeCool Tower 2,Home Appliances,Air Cooler, LG ,64410.00,98800.00,Prime Distribution India,2023-01-25,Active
+PROD00095,SoundBeat Tower 5,Electronics,Speaker,Canon,75030.00,102400.00,Urban Retail Supply,2022-09-19,Active
+PROD00161,powergo 10000 1,Mobile & Accessories,Power Bank,Boat,4250.00,5400.00,Western Trade House,2025-11-22,Active
+PROD00009,NexBook Air 13 4,Electronics,Laptop,LG,37150.00,57300.00,Metro Wholesale,2025-02-09,Active
+PROD00480,SecureCut Pro 5,Office Equipment,Shredder,Epson,45390.00,64200.00,Bharat Electronics Supply,2023-03-23,Active
+PROD00342,Comfort Sofa 2S 2,Furniture,Sofa,Havells,33360.00,52100.00,Apex Supply Co,2024-04-01,Active
+PROD00145,FastCharge 20W 5,Mobile & Accessories,Charger,Canon,63620.00,74700.00,Bharat Electronics Supply,2025-08-14,Active
+PROD00243,WashPro 6KG 3,Home Appliances,Washing Machine,HP,37540.00,49600.00,South India Distribution,2025-08-03,Active
+PROD00242,WashPro 6KG 2,Home Appliances,Washing Machine,Godrej,25740.00,35400.00,,2024-08-22,Active
+PROD00476,SecureCut Pro 1,Office Equipment,Shredder,Canon,42670.00,61300.00,Apex Supply Co,2025-12-11,Active
+PROD00157,PowerCharge GaN 2,Mobile & Accessories,Charger,HP,46940.00,60600.00,Global Tech Distributors,2022-08-16,Active
+PROD00336,WorkDesk Compact 1,Furniture,Desk,Asus,36130.00,50500.00,Apex Supply Co,2024-04-07,Active
+PROD00267,HeatWave 25L 2,Home Appliances,Microwave,Whirlpool,65120.00,84100.00,Apex Supply Co,2024-07-20,Active
+PROD00445,VisionCast 3000 5,Office Equipment,Projector,Lenovo,27390.00,36800.00,Prime Distribution India,2024-12-06,Discontinued
+PROD00016,NexBook Studio 16 1,ELECTRONICS,Laptop,Asus,60800.00,78400.00,Western Trade House,2023-09-23,Active
+PROD00444,VISIONCAST 3000 4,OFFICE EQUIPMENT,Projector,IFB,31230.00,49600.00,Eastern Trade Links,2024-07-09,Active
+PROD00067,PixelShot 400 2,Electronics,Camera,Boat,52300.00,67800.00,South India Distribution,2023-10-07,Active
+PROD00333,WorkDesk Executive 3,Furniture,Desk,Whirlpool,45040.00,57800.00,Eastern Trade Links,2025-11-09,Active
+PROD00084,SoundBeat Mini 4,Electronics,Speaker,NexTech,22750.00,28500.00,Metro Wholesale,2022-10-24,Active
+PROD00364,BookSpace 4Tier 4,Furniture,Bookshelf,Canon,49000.00,57200.00,Metro Wholesale,2024-12-13,Active
+PROD00279,HeatWave Convection 4,Home Appliances,Microwave,NexTech,50960.00,80300.00,National Consumer Products,2024-06-27,Active
+PROD00432,ScanFast Duplex 2,Office Equipment,Scanner,Sony,27300.00,41100.00,Metro Wholesale,2023-02-08,Active
+PROD00042,SmartView 43 2,Electronics,Television,Asus,49390.00,65800.00,Eastern Trade Links,2024-05-01,Active
+PROD00022,ViewMax 24 2,Electronics,Monitor,Asus,41230.00,64400.00,Bharat Electronics Supply,2023-01-10,Discontinued
+PROD00209,CoolMax 350L 4,Home Appliances,Refrigerator,NexTech,15260.00,21100.00,Global Tech Distributors,2023-09-22,Active
+PROD00491,PowerGuard 1500 1,Office Equipment,UPS,Canon,29020.00,42400.00,Prime Distribution India,21/09/2022,Active
+PROD00168,PowerGo 20000 3,Mobile & Accessories,Power Bank,Boat,9490.00,12400.00,National Consumer Products,2025-06-28,Active
+PROD00218,FrostFree Pro 3,Home Appliances,Refrigerator,Ikea,36090.00,46600.00,South India Distribution,2024-05-18,Active
+PROD00163,PowerGo 10000 3,Mobile & Accessories,Power Bank,Samsung,33310.00,38900.00,National Consumer Products,2025-08-28,Active
+PROD00026,ViewMax 27 1,Electronics,Monitor,Acer,14950.00,20800.00,Urban Retail Supply,2025-01-24,Discontinued
+PROD00302,ErgoOffice Basic 2,Furniture,Office Chair,JBL,46550.00,55700.00,South India Distribution,2022-02-20,Discontinued
+PROD00362,BookSpace 4Tier 2,Furniture,Bookshelf,Lenovo,11620.00,13500.00,Global Tech Distributors,2026-02-02,Active
+PROD00056,SmartView 75 1,Electronics,Television,IFB,69790.00,84700.00,Metro Wholesale,2024-08-05,Active
+PROD00193,NexWatch Active 3,Mobile & Accessories,Smartwatch,Whirlpool,45170.00,55000.00,Western Trade House,2025-11-16,Active
+PROD00272,HeatWave Grill 2,Home Appliances,Microwave,Logitech,27920.00,44100.00,Apex Supply Co,2023-06-28,Active
+PROD00199,NexWatch Classic 4,Mobile & Accessories,Smartwatch,Voltas,3540.00,4800.00,Global Tech Distributors,2022-07-27,Active
+PROD00454,VisionCast Mini 4,Office Equipment,Projector,LG,54350.00,62600.00,Metro Wholesale,2023-02-01,Active
+PROD00159,PowerCharge GaN 4,Mobile & Accessories,Charger,JBL,22880.00,35600.00,Prime Distribution India,2022-06-23,Active
+PROD00437,ScanFast Pro 2,Office Equipment,Scanner,Dyson,15930.00,20500.00,Global Tech Distributors,2022-05-23,Active
+PROD00165,PowerGo 10000 5,Mobile & Accessories,Power Bank,LG,60470.00,72300.00,Western Trade House,2025-07-25,Active
+PROD00034,ViewMax Ultra 32 4,Electronics,Monitor,Sony,44460.00,70200.00,Eastern Trade Links,2025-03-16,Active
+PROD00096,SoundBeat Home 1,Electronics,Speaker,Sony,38020.00,46900.00,Western Trade House,2024-06-29,Active
+PROD00294,BreezeCool Tower 4,Home Appliances,Air Cooler,Voltas,49340.00,75600.00,South India Distribution,2022-10-05,Active
+PROD00104,NexPhone X1 4,Mobile & Accessories,Smartphone,IFB,1910.00,2200.00,Apex Supply Co,2023-03-27,Active
+PROD00175,PowerGo Slim 5,Mobile & Accessories,Power Bank,NexTech,27650.00,33800.00,Apex Supply Co,2024-02-12,Active
+PROD00448,VisionCast 4000 3,Office Equipment,Projector,Lenovo,1280.00,1900.00,South India Distribution,2023-11-29,Active
+PROD00204,CoolMax 250L 4,Home Appliances,Refrigerator,Sony,10900.00,13800.00,Metro Wholesale,02/11/2022,Active
+PROD00217,frostfree pro 2,Home Appliances,Refrigerator, Havells ,63770.00,80500.00,Metro Wholesale,2023-10-14,Active
+PROD00225,PowerCool 1.0T 5,Home Appliances,Air Conditioner,Lenovo,8680.00,10100.00,Urban Retail Supply,2022-12-28,Active
+PROD00348,Comfort Sofa 3S 3,Furniture,Sofa,Logitech,25650.00,30700.00,Western Trade House,2023-01-06,Active
+PROD00306,ErgoOffice Pro 1,FURNITURE,Office Chair,Dyson,37920.00,48300.00,Metro Wholesale,2024-02-22,Active
+PROD00284,BreezeCool 20L 4,Home Appliances,Air Cooler,NexTech,23390.00,26800.00,Prime Distribution India,2024-11-13,Active
+PROD00097,SoundBeat Home 2,Electronics,Speaker,Dyson,32930.00,40200.00,Metro Wholesale,2022-10-21,Active
+PROD00235,PowerCool 2.0T 5,Home Appliances,Air Conditioner,Whirlpool,70740.00,104500.00,Apex Supply Co,2022-09-21,Active
+PROD00393,OfficeCab Filing 3,Furniture,Cabinet,NexTech,35410.00,44800.00,Bharat Electronics Supply,2022-06-16,Active
+PROD00120,NexPhone Lite 5,Mobile & Accessories,Smartphone,Lenovo,3420.00,4500.00,Western Trade House,2023-03-06,Active
+PROD00228,PowerCool 1.5T 3,Home Appliances,Air Conditioner,Acer,12450.00,17800.00,Metro Wholesale,2022-05-17,Discontinued
+PROD00353,Comfort Sofa LShape 3,Furniture,Sofa,LG,27990.00,43700.00,Eastern Trade Links,2024-05-19,Discontinued
+PROD00416,PrintPro Color 1,Office Equipment,Printer,JBL,53040.00,61500.00,National Consumer Products,2024-07-16,Active
+PROD00321,WorkDesk 120 1,Furniture,Desk,LG,23680.00,29900.00,Western Trade House,2024-01-22,Active
+PROD00014,NexBook Business 15 4,Electronics,Laptop,Philips,56140.00,66600.00,Metro Wholesale,2023-04-14,Active
+PROD00214,CoolMax DoubleDoor 4,Home Appliances,Refrigerator,Whirlpool,39010.00,56700.00,South India Distribution,2023-06-18,Active
+PROD00330,WorkDesk 150 5,Furniture,Desk,Lenovo,32470.00,48500.00,Global Tech Distributors,2024-12-05,Active
+PROD00075,PixelShot Pro 5,Electronics,Camera,JBL,75140.00,97100.00,Metro Wholesale,2022-03-18,Active
+PROD00418,PrintPro Color 3,Office Equipment,Printer,Logitech,10020.00,13100.00,National Consumer Products,2022-10-10,Active
+PROD00453,VisionCast Mini 3,Office Equipment,Projector,Dyson,18390.00,26700.00,Western Trade House,2022-12-06,Active
+PROD00004,NexBook Pro 14 4,Electronics,Laptop,LG,15700.00,19500.00,Bharat Electronics Supply,2022-07-20,Active
+PROD00122,SoundBeat Buds 2,Mobile & Accessories,Earbuds,Dell,52070.00,74000.00,Global Tech Distributors,2023-10-30,Active
+PROD00310,ErgoOffice Pro 5,FURNITURE,Office Chair,Godrej,32430.00,41300.00,National Consumer Products,2024-06-14,Active
+PROD00430,ScanFast 400 5,Office Equipment,Scanner,NexTech,33380.00,40600.00,Global Tech Distributors,2022-03-23,Active
+PROD00408,PrintPro 220 3,Office Equipment,Printer,Boat,3150.00,4700.00,Bharat Electronics Supply,2025-10-13,Active
+PROD00300,BreezeCool Desert 5,Home Appliances,Air Cooler,Asus,13790.00,18100.00,Eastern Trade Links,2025-11-01,Discontinued
+PROD00256,WashPro FrontLoad 1,Home Appliances,Washing Machine,Philips,40470.00,63500.00,Prime Distribution India,2022-04-18,Active
+PROD00041,SmartView 43 1,Electronics,Television,Philips,102110.00,118800.00,Eastern Trade Links,2023-09-17,Active
+PROD00169,PowerGo 20000 4,Mobile & Accessories,Power Bank,HP,61280.00,74000.00,Eastern Trade Links,2023-11-22,Active
+PROD00236,PowerCool Inverter 1,Home Appliances,Air Conditioner,Canon,51150.00,71200.00,Apex Supply Co,2023-02-25,Active
+PROD00468,SecureCut 15 3,Office Equipment,Shredder,Voltas,55570.00,88400.00,Prime Distribution India,2022-11-12,Discontinued
+PROD00412,PrintPro Laser 2,Office Equipment,Printer,IFB,52340.00,66100.00,Urban Retail Supply,2024-05-28,Active
+PROD00036,ViewMax Office 22 1,Electronics,Monitor,Havells,25050.00,35600.00,Prime Distribution India,2022-05-23,Active
+PROD00339,WorkDesk Compact 4,Furniture,Desk,Canon,2340.00,3200.00,Apex Supply Co,09/04/2022,Active
+PROD00007,NexBook Air 13 2,Electronics,Laptop,Boat,60710.00,75500.00,South India Distribution,2024-07-25,Active
+PROD00376,BookSpace Compact 1,Furniture,Bookshelf,Boat,32570.00,49100.00,Metro Wholesale,2024-08-08,Active
+PROD00456,VisionCast Pro 1,OFFICE EQUIPMENT,Projector,Canon,41800.00,49600.00,Urban Retail Supply,2024-04-26,Active
+PROD00455,VisionCast Mini 5,Office Equipment,Projector,Dyson,18770.00,26800.00,National Consumer Products,2024-06-26,Active
+PROD00216,FrostFree Pro 1,Home Appliances,Refrigerator,Whirlpool,11100.00,17000.00,National Consumer Products,2023-05-21,Active
+PROD00415,PrintPro Laser 5,OFFICE EQUIPMENT,Printer,Lenovo,8480.00,10900.00,Apex Supply Co,2023-01-19,Active
+PROD00352,Comfort Sofa LShape 2,Furniture,Sofa,JBL,47170.00,55700.00,Prime Distribution India,2022-01-26,Active
+PROD00229,PowerCool 1.5T 4,Home Appliances,Air Conditioner,Logitech,68430.00,98800.00,Western Trade House,2022-03-17,Active
+PROD00278,HeatWave Convection 3,Home Appliances,Microwave,Dyson,31170.00,43600.00,Prime Distribution India,2022-02-08,Active
+PROD00227,PowerCool 1.5T 2,Home Appliances,Air Conditioner,Dyson,72210.00,83400.00,Global Tech Distributors,2022-09-17,Active
+PROD00331,WorkDesk Executive 1,Furniture,Desk,Lenovo,23250.00,34500.00,Global Tech Distributors,2024-12-26,Active
+PROD00370,BookSpace 5Tier 5,Furniture,Bookshelf,Philips,42340.00,61100.00,Metro Wholesale,2023-10-07,Active
+PROD00213,CoolMax DoubleDoor 3,Home Appliances,Refrigerator,Philips,31100.00,35700.00,Bharat Electronics Supply,2025-06-02,Active
+PROD00409,PrintPro 220 4,Office Equipment,Printer,Havells,69190.00,90500.00,Global Tech Distributors,2022-05-11,Active
+PROD00081,SoundBeat Mini 1,Electronics,Speaker,HP,34860.00,43400.00,Global Tech Distributors,2023-08-08,Active
+PROD00402,PrintPro 120 2,Office Equipment,Printer,Philips,26950.00,31600.00,South India Distribution,2023-07-08,Active
+PROD00183,NexWatch Fit 3,Mobile & Accessories,Smartwatch,Godrej,28030.00,36600.00,Apex Supply Co,2024-06-28,Active
+PROD00295,BreezeCool Tower 5,Home Appliances,Air Cooler,Havells,10530.00,16400.00,Global Tech Distributors,28/09/2024,Discontinued
+PROD00066,PixelShot 400 1,Electronics,Camera,Godrej,25940.00,38400.00,Apex Supply Co,2023-04-13,Active
+PROD00368,BookSpace 5Tier 3,Furniture,Bookshelf,Epson,29840.00,39800.00,Global Tech Distributors,2024-08-19,Active
+PROD00058,SmartView 75 3,Electronics,Television,Godrej,27440.00,43300.00,Global Tech Distributors,2023-12-31,Active
+PROD00076,PixelShot Mirrorless 1,Electronics,Camera,Whirlpool,39770.00,53900.00,Metro Wholesale,2023-06-27,Active
+PROD00074,PixelShot Pro 4,Electronics,Camera,HP,67510.00,87300.00,Urban Retail Supply,2024-09-19,Active
+PROD00088,SOUNDBEAT PRO 3,Electronics,Speaker,Godrej,28350.00,39400.00,Bharat Electronics Supply,2025-08-19,Active
+PROD00107,NEXPHONE X2 2,Mobile & Accessories,Smartphone,Sony,16760.00,21100.00,National Consumer Products,2023-03-26,Discontinued
+PROD00301,ErgoOffice Basic 1,Furniture,Office Chair,Godrej,16350.00,19900.00,Eastern Trade Links,2024-04-12,Active
+PROD00162,PowerGo 10000 2,Mobile & Accessories,Power Bank,Dyson,3280.00,5200.00,Bharat Electronics Supply,2023-01-25,Active
+PROD00381,OfficeCab 2Door 1,Furniture,Cabinet,Ikea,13450.00,18700.00,Metro Wholesale,2025-07-24,Active
+PROD00232,PowerCool 2.0T 2,Home Appliances,Air Conditioner,Philips,36420.00,43300.00,Western Trade House,2025-08-02,Discontinued
+PROD00478,SecureCut Pro 3,Office Equipment,Shredder,Samsung,19550.00,25500.00,Bharat Electronics Supply,2025-01-27,Active
+PROD00316,ErgoOffice Mesh 1,Furniture,Office Chair,IFB,12920.00,15900.00,Global Tech Distributors,2022-09-17,Active
+PROD00060,SmartView 75 5,Electronics,Television,Whirlpool,81490.00,105600.00,Western Trade House,2025-04-14,Discontinued
+PROD00324,WorkDesk 120 4,Furniture,Desk,Dell,11120.00,14100.00,Eastern Trade Links,2022-11-17,Active
+PROD00357,Comfort Sofa Premium 2,Furniture,Sofa,Asus,13640.00,16300.00,Bharat Electronics Supply,2023-03-02,Active
+PROD00079,PixelShot Mirrorless 4,Electronics,Camera,JBL,16130.00,18800.00,Western Trade House,2026-02-09,Active
+PROD00005,NexBook Pro 14 5,Electronics,Laptop,Ikea,38130.00,46200.00,Urban Retail Supply,2023-05-31,Active
+PROD00124,SoundBeat Buds 4,Mobile & Accessories,Earbuds,Dell,16580.00,19600.00,Prime Distribution India,2025-09-07,Active
+PROD00220,FrostFree Pro 5,Home Appliances,Refrigerator,Ikea,45070.00,61900.00,Prime Distribution India,2025-03-12,Active
+PROD00411,PrintPro Laser 1,Office Equipment,Printer,Godrej,75710.00,89200.00,Urban Retail Supply,2025-05-01,Active
+PROD00407,PrintPro 220 2,Office Equipment,Printer,HP,44600.00,67300.00,Urban Retail Supply,2025-01-27,Active
+PROD00347,Comfort Sofa 3S 2,Furniture,Sofa,Boat,4730.00,6300.00,National Consumer Products,2024-12-09,Active
+PROD00288,BreezeCool 30L 3,Home Appliances,Air Cooler,Acer,7210.00,8400.00,Prime Distribution India,2022-10-11,Active
+PROD00182,NexWatch Fit 2,Mobile & Accessories,Smartwatch,Sony,10920.00,13300.00,Metro Wholesale,2023-10-28,Active
+PROD00080,PixelShot Mirrorless 5,Electronics,Camera,Asus,39720.00,45700.00,National Consumer Products,2025-04-28,Active
+PROD00127,SoundBeat Buds Pro 2,Mobile & Accessories,Earbuds,Ikea,16140.00,20900.00,Western Trade House,2025-06-29,Active
+PROD00153,FastCharge 65W 3,Mobile & Accessories,Charger, Epson ,22850.00,29300.00,Eastern Trade Links,2022-03-11,Active
+PROD00452,VisionCast Mini 2,Office Equipment,Projector,Havells,60410.00,75800.00,South India Distribution,2026-02-03,Active
+PROD00085,SoundBeat Mini 5,Electronics,Speaker,JBL,60180.00,92500.00,Urban Retail Supply,2025-08-10,Active
+PROD00121,SoundBeat Buds 1,Mobile & Accessories,Earbuds,Dell,,68000.00,Bharat Electronics Supply,2023-07-09,Active
+PROD00018,NexBook Studio 16 3,Electronics,Laptop,NexTech,7820.00,9300.00,Western Trade House,2025-05-08,Discontinued
+PROD00285,BreezeCool 20L 5,Home Appliances,Air Cooler,Samsung,37340.00,42500.00,Prime Distribution India,2023-02-27,Active
+PROD00487,PowerGuard 1000 2,Office Equipment,UPS,NexTech,47220.00,63000.00,National Consumer Products,2023-08-12,Active
+PROD00276,HeatWave Convection 1,Home Appliances,Microwave,Godrej,10570.00,14700.00,Prime Distribution India,2024-04-07,Active
+PROD00233,PowerCool 2.0T 3,Home Appliances,Air Conditioner,HP,63690.00,82000.00,South India Distribution,2022-04-10,Active
+PROD00264,HeatWave 20L 4,Home Appliances,Microwave,Logitech,71840.00,103100.00,Urban Retail Supply,2024-09-29,Active
+PROD00374,BookSpace Wide 4,Furniture,Bookshelf,Whirlpool,32370.00,38100.00,National Consumer Products,2022-01-02,Active
+PROD00208,CoolMax 350L 3,Home Appliances,Refrigerator,Boat,58060.00,71200.00,Eastern Trade Links,2022-08-12,Active
+PROD00338,WorkDesk Compact 3,Furniture,Desk,Ikea,20740.00,26200.00,Urban Retail Supply,2023-08-06,Active
+PROD00248,WashPro 7KG 3,Home Appliances,Washing Machine,Epson,35390.00,43900.00,Prime Distribution India,2022-09-26,Discontinued
+PROD00250,WashPro 7KG 5,Home Appliances,Washing Machine,Boat,3490.00,4000.00,Urban Retail Supply,08/10/2023,Active
+PROD00188,NexWatch Pro 3,Mobile & Accessories,Smartwatch,Lenovo,60090.00,81500.00,Global Tech Distributors,2025-01-16,Active
+PROD00421,ScanFast 200 1,Office Equipment,Scanner,Epson,,78700.00,Global Tech Distributors,2022-08-16,Discontinued
+PROD00234,PowerCool 2.0T 4,Home Appliances,Air Conditioner,Philips,49900.00,65200.00,Prime Distribution India,2025-07-26,Active
+PROD00481,PowerGuard 600 1,Office Equipment,UPS, Whirlpool ,60990.00,89300.00,Global Tech Distributors,2024-05-14,Discontinued
+PROD00211,CoolMax DoubleDoor 1,HOME APPLIANCES,Refrigerator,Logitech,74240.00,103200.00,South India Distribution,2023-10-16,Active
+PROD00231,PowerCool 2.0T 1,Home Appliances,Air Conditioner,Boat,60470.00,91200.00,,2024-06-22,Active
+PROD00239,PowerCool Inverter 4,Home Appliances,Air Conditioner,Acer,22160.00,28000.00,Western Trade House,2022-07-10,Active
+PROD00179,powergo pro 4,Mobile & Accessories,Power Bank,Ikea,53930.00,63400.00,Western Trade House,2022-09-18,Active
+PROD00065,PixelShot 200 5,Electronics,Camera,HP,66490.00,76200.00,Western Trade House,2026-01-08,Discontinued
+PROD00053,SMARTVIEW 65 3,Electronics,Television,Philips,6060.00,7000.00,Metro Wholesale,2023-04-27,Active
+PROD00277,HeatWave Convection 2,Home Appliances,Microwave,Boat,2240.00,2600.00,Prime Distribution India,2022-02-02,Discontinued
+PROD00484,PowerGuard 600 4,Office Equipment,UPS,Lenovo,11120.00,14700.00,Urban Retail Supply,2023-01-12,Discontinued
+PROD00073,PixelShot Pro 3,Electronics,Camera,Boat,84300.00,111400.00,National Consumer Products,2025-10-11,Active
+PROD00375,BookSpace Wide 5,Furniture,Bookshelf,LG,37150.00,54900.00,Prime Distribution India,2024-05-27,Active
+PROD00315,ErgoOffice Executive 5,Furniture,Office Chair,Boat,18010.00,29000.00,South India Distribution,2025-11-13,Active
+PROD00017,NexBook Studio 16 2,Electronics,Laptop,Epson,71830.00,110500.00,Apex Supply Co,2024-06-05,Active
+PROD00446,VisionCast 4000 1,Office Equipment,Projector,HP,16610.00,21400.00,Prime Distribution India,2023-12-04,Active
+PROD00032,ViewMax Ultra 32 2,Electronics,Monitor,Samsung,90270.00,114300.00,Prime Distribution India,2023-12-25,Discontinued
+PROD00258,WashPro FrontLoad 3,Home Appliances,Washing Machine,Sony,31510.00,37100.00,National Consumer Products,2024-05-15,Active
+PROD00312,ErgoOffice Executive 2,Furniture,Office Chair,Samsung,33320.00,44600.00,South India Distribution,2022-07-15,Active
+PROD00177,PowerGo Pro 2,MOBILE & ACCESSORIES,Power Bank,NexTech,3480.00,4400.00,South India Distribution,2022-12-26,Active
+PROD00030,ViewMax 27 5,Electronics,Monitor,Logitech,33730.00,45100.00,Western Trade House,2024-03-10,Active
+PROD00136,AirSound Max 1,Mobile & Accessories,Earbuds,LG,32690.00,47100.00,Metro Wholesale,2025-06-28,Active
+PROD00012,NexBook Business 15 2,Electronics,Laptop,JBL,48890.00,72900.00,Eastern Trade Links,2025-03-24,Active
+PROD00222,PowerCool 1.0T 2,Home Appliances,Air Conditioner,Voltas,43030.00,56700.00,Apex Supply Co,2025-05-20,Active
+PROD00130,SoundBeat Buds Pro 5,Mobile & Accessories,Earbuds, Samsung ,54790.00,62400.00,Apex Supply Co,13/07/2022,Active
+PROD00466,SecureCut 15 1,Office Equipment,Shredder,HP,28980.00,45800.00,Eastern Trade Links,2022-07-29,Discontinued
+PROD00282,BreezeCool 20L 2,HOME APPLIANCES,Air Cooler,Canon,69340.00,93400.00,Global Tech Distributors,2022-07-17,Active
+PROD00440,ScanFast Pro 5,Office Equipment,Scanner,Epson,10060.00,11600.00,Western Trade House,2025-12-29,Active
+PROD00474,SecureCut CrossCut 4,Office Equipment,Shredder,Godrej,26880.00,41700.00,Western Trade House,2024-07-08,Active
+PROD00261,HeatWave 20L 1,Home Appliances,Microwave,Lenovo,68290.00,94400.00,Global Tech Distributors,2023-01-03,Active
+PROD00385,OfficeCab 2Door 5,Furniture,Cabinet,IFB,12300.00,18900.00,Bharat Electronics Supply,2023-09-05,Active
+PROD00047,SMARTVIEW 55 2,Electronics,Television,Boat,28440.00,33400.00,South India Distribution,2026-01-06,Active
+PROD00394,OfficeCab Filing 4,Furniture,Cabinet,Voltas,3090.00,4000.00,Global Tech Distributors,2025-12-06,Active
+PROD00273,HeatWave Grill 3,Home Appliances,Microwave,NexTech,73860.00,91600.00,Apex Supply Co,2022-12-15,Active
+PROD00185,NexWatch Fit 5,Mobile & Accessories,Smartwatch,HP,10090.00,14000.00,Apex Supply Co,2022-03-04,Active
+PROD00141,FastCharge 20W 1,Mobile & Accessories,Charger,Acer,36400.00,47800.00,Prime Distribution India,2025-05-31,Active
+PROD00472,SecureCut CrossCut 2,Office Equipment,Shredder,Sony,19680.00,31100.00,Prime Distribution India,2024-07-07,Active
+PROD00283,BreezeCool 20L 3,Home Appliances,Air Cooler,LG,13050.00,16300.00,Metro Wholesale,2023-05-04,Active
+PROD00420,PrintPro Color 5,Office Equipment,Printer,Epson,47140.00,63000.00,Urban Retail Supply,2023-11-23,Active
+PROD00488,PowerGuard 1000 3,Office Equipment,UPS,Dyson,9750.00,12800.00,Urban Retail Supply,2024-05-09,Active
+PROD00461,SecureCut 10 1,Office Equipment,Shredder,Lenovo,3970.00,5300.00,Global Tech Distributors,2025-03-11,Active
+PROD00447,VisionCast 4000 2,Office Equipment,Projector,JBL,58720.00,78900.00,Apex Supply Co,2023-03-27,Active
+PROD00499,PowerGuard Online 4,Office Equipment,UPS,HP,,19600.00,Prime Distribution India,2025-08-07,Active
+PROD00195,NexWatch Active 5,Mobile & Accessories,Smartwatch,Godrej,57260.00,69600.00,Global Tech Distributors,2024-05-12,Active
+PROD00427,ScanFast 400 2,Office Equipment,Scanner,LG,26340.00,42000.00,Metro Wholesale,05/02/2023,Active
+PROD00319,ErgoOffice Mesh 4,Furniture,Office Chair,LG,34670.00,50000.00,Metro Wholesale,2024-08-29,Active
+PROD00059,SmartView 75 4,Electronics,Television,NexTech,29300.00,41900.00,Metro Wholesale,2023-08-17,Active
+PROD00190,NexWatch Pro 5,Mobile & Accessories,Smartwatch,Whirlpool,3860.00,5600.00,Global Tech Distributors,2023-02-05,Active
+PROD00372,BookSpace Wide 2,Furniture,Bookshelf,Philips,,26100.00,Prime Distribution India,2024-12-27,Active
+PROD00135,AirSound Mini 5,Mobile & Accessories,Earbuds,Havells,54710.00,63900.00,Metro Wholesale,2023-03-09,Active
+PROD00361,BookSpace 4Tier 1,Furniture,Bookshelf,LG,23960.00,37400.00,National Consumer Products,2025-03-24,Active
+PROD00108,NexPhone X2 3,Mobile & Accessories,Smartphone,Havells,16090.00,23100.00,Western Trade House,2022-06-22,Active
+PROD00340,WorkDesk Compact 5,Furniture,Desk,Acer,14470.00,17500.00,South India Distribution,2024-08-11,Discontinued
+PROD00173,PowerGo Slim 3,Mobile & Accessories,Power Bank,Godrej,7800.00,12400.00,South India Distribution,16/10/2024,Active
+PROD00044,SmartView 43 4,Electronics,Television,Asus,95810.00,112000.00,Metro Wholesale,2023-03-15,Active
+PROD00263,HeatWave 20L 3,Home Appliances,Microwave,Godrej,34150.00,51800.00,South India Distribution,2023-03-17,Active
+PROD00115,NexPhone Pro 5,Mobile & Accessories,Smartphone,Logitech,5210.00,7800.00,Western Trade House,2022-05-13,Active
+PROD00202,CoolMax 250L 2,Home Appliances,Refrigerator,IFB,74750.00,88900.00,Metro Wholesale,2025-07-08,Active
+PROD00200,NexWatch Classic 5,Mobile & Accessories,Smartwatch,Sony,43850.00,60600.00,Metro Wholesale,2025-07-26,Active
+PROD00147,FastCharge 45W 2,Mobile & Accessories,Charger,NexTech,11280.00,14500.00,Apex Supply Co,2022-12-11,Active
+PROD00105,NexPhone X1 5,Mobile & Accessories,Smartphone,IFB,2030.00,3000.00,South India Distribution,2024-07-25,Active
+PROD00049,SmartView 55 4,Electronics,Television,Sony,87150.00,107400.00,Prime Distribution India,2024-06-12,Active
+PROD00305,ergooffice basic 5,Furniture,Office Chair,JBL,10910.00,17200.00,South India Distribution,2025-11-18,Discontinued
+PROD00391,OfficeCab Filing 1,Furniture,Cabinet,IFB,10680.00,14400.00,Global Tech Distributors,24/10/2023,Discontinued
+PROD00382,OfficeCab 2Door 2,Furniture,Cabinet,Samsung,38680.00,46300.00,Prime Distribution India,2023-08-19,Active
+PROD00494,PowerGuard 1500 4,Office Equipment,UPS,Ikea,44890.00,57700.00,Metro Wholesale,24/05/2024,Active
+PROD00087,SoundBeat Pro 2,Electronics,Speaker,Acer,18410.00,21600.00,Metro Wholesale,31/10/2023,Active
+PROD00164,PowerGo 10000 4,Mobile & Accessories,Power Bank,NexTech,27550.00,38300.00,Apex Supply Co,2022-03-31,Active
+PROD00133,AirSound Mini 3,Mobile & Accessories,Earbuds,Lenovo,41520.00,49500.00,Bharat Electronics Supply,2024-05-14,Active
+PROD00496,PowerGuard Online 1,Office Equipment,UPS,Boat,51420.00,76200.00,Apex Supply Co,2025-03-07,Active
+PROD00050,SmartView 55 5,Electronics,Television,Voltas,66940.00,99700.00,Western Trade House,2025-08-15,Active
+PROD00371,BookSpace Wide 1,Furniture,Bookshelf,LG,16980.00,21700.00,South India Distribution,2023-08-11,Active
+PROD00028,ViewMax 27 3,Electronics,Monitor,Dell,62890.00,76500.00,South India Distribution,2025-04-19,Active
+PROD00082,SoundBeat Mini 2,Electronics,Speaker,Lenovo,73700.00,102900.00,Global Tech Distributors,2025-05-25,Active
+PROD00355,COMFORT SOFA LSHAPE 5,Furniture,Sofa,Dell,4120.00,5900.00,Apex Supply Co,10/11/2022,Active
+PROD00062,PixelShot 200 2,Electronics,Camera,Havells,17920.00,21100.00,South India Distribution,2022-09-15,Active
+PROD00492,PowerGuard 1500 2,Office Equipment,UPS,Samsung,10970.00,13000.00,Global Tech Distributors,2025-09-06,Active
+PROD00178,PowerGo Pro 3,Mobile & Accessories,Power Bank,Sony,22990.00,32500.00,Western Trade House,2022-11-22,Active
+PROD00194,NexWatch Active 4,Mobile & Accessories,Smartwatch,JBL,25590.00,38100.00,Urban Retail Supply,2025-06-12,Active
+PROD00055,SmartView 65 5,Electronics,Television,Havells,61750.00,87000.00,Global Tech Distributors,13/06/2025,Active
+PROD00038,ViewMax Office 22 3,Electronics,Monitor,Canon,81230.00,118800.00,Prime Distribution India,2023-01-22,Active
+PROD00307,ErgoOffice Pro 2,Furniture,Office Chair,Boat,26610.00,36600.00,Apex Supply Co,10/02/2025,Active
+PROD00123,SoundBeat Buds 3,Mobile & Accessories,Earbuds,Boat,56190.00,81300.00,Western Trade House,2023-01-23,Active
+PROD00410,PrintPro 220 5,Office Equipment,Printer,JBL,51860.00,69000.00,South India Distribution,2023-06-04,Active
+PROD00449,visioncast 4000 4,Office Equipment,Projector,NexTech,71340.00,92700.00,Bharat Electronics Supply,2025-06-17,Active
+PROD00450,VisionCast 4000 5,Office Equipment,Projector,Voltas,36380.00,44400.00,National Consumer Products,2023-11-06,Active
+PROD00311,ERGOOFFICE EXECUTIVE 1,Furniture,Office Chair,Dyson,24750.00,33300.00,Global Tech Distributors,2022-10-15,Discontinued
+PROD00291,BreezeCool Tower 1,Home Appliances,Air Cooler,Logitech,68740.00,95600.00,Western Trade House,2023-02-22,Active
+PROD00001,NexBook Pro 14 1,Electronics,Laptop,Sony,35140.00,46900.00,Metro Wholesale,2024-11-14,Active
+PROD00167,PowerGo 20000 2,Mobile & Accessories,Power Bank,Godrej,52720.00,61500.00,Global Tech Distributors,2022-03-06,Active
+PROD00337,WorkDesk Compact 2,Furniture,Desk,Canon,6820.00,8300.00,Prime Distribution India,2023-04-12,Active
+PROD00413,PrintPro Laser 3,Office Equipment,Printer,Voltas,28530.00,40000.00,Global Tech Distributors,2023-01-27,Discontinued
+PROD00406,PrintPro 220 1,Office Equipment,Printer,Godrej,34910.00,40600.00,,2022-10-28,Discontinued
+PROD00089,SoundBeat Pro 4,Electronics,Speaker,Epson,15370.00,20900.00,Bharat Electronics Supply,2023-05-21,Active
+PROD00192,NexWatch Active 2,Mobile & Accessories,Smartwatch,Havells,28210.00,41000.00,Western Trade House,2025-05-06,Active
+PROD00460,VisionCast Pro 5,Office Equipment,Projector,IFB,50740.00,63800.00,Bharat Electronics Supply,2023-04-30,Active
+PROD00111,nexphone pro 1,MOBILE & ACCESSORIES,Smartphone,Ikea,35900.00,45400.00,Apex Supply Co,2023-10-13,Active
+PROD00125,SoundBeat Buds 5,Mobile & Accessories,Earbuds,Asus,25350.00,39900.00,Western Trade House,2023-01-02,Active
+PROD00029,ViewMax 27 4,Electronics,Monitor,JBL,36980.00,43100.00,Eastern Trade Links,2025-10-01,Active
+PROD00426,ScanFast 400 1,Office Equipment,Scanner,Lenovo,42460.00,54800.00,Bharat Electronics Supply,2025-11-28,Discontinued
+PROD00308,ErgoOffice Pro 3,Furniture,Office Chair,Sony,19520.00,23000.00,Metro Wholesale,2025-01-02,Active
+PROD00334,WorkDesk Executive 4,Furniture,Desk,Asus,8000.00,11700.00,Metro Wholesale,2024-05-31,Active
+PROD00280,HeatWave Convection 5,Home Appliances,Microwave,Havells,17220.00,22900.00,Bharat Electronics Supply,2023-03-25,Active
+PROD00431,ScanFast Duplex 1,Office Equipment,Scanner,Asus,18250.00,24500.00,National Consumer Products,2023-09-26,Discontinued
+PROD00068,PixelShot 400 3,Electronics,Camera,LG,95840.00,115000.00,Western Trade House,2022-03-19,Active
+PROD00048,SmartView 55 3,Electronics,Television,Lenovo,64030.00,79700.00,Eastern Trade Links,2023-07-04,Active
+PROD00246,WashPro 7KG 1,Home Appliances,Washing Machine,Whirlpool,18150.00,22400.00,Metro Wholesale,2024-03-15,Active
+PROD00107,NexPhone X2 2,Mobile & Accessories,Smartphone,Sony,16760.00,21100.00,National Consumer Products,2023-03-26,Discontinued
+PROD00142,FastCharge 20W 2,Mobile & Accessories,Charger,Ikea,58920.00,74100.00,Metro Wholesale,2023-06-06,Discontinued
+PROD00090,SoundBeat Pro 5,Electronics,Speaker,Logitech,43100.00,50200.00,Apex Supply Co,2022-06-29,Active
+PROD00223,PowerCool 1.0T 3,Home Appliances,Air Conditioner,Boat,49790.00,73900.00,Global Tech Distributors,2022-08-26,Active
+PROD00254,WashPro 8KG 4,HOME APPLIANCES,Washing Machine,Voltas,21440.00,29000.00,Western Trade House,2023-06-05,Active
+PROD00260,WashPro FrontLoad 5,Home Appliances,Washing Machine,JBL,51030.00,64700.00,Eastern Trade Links,2024-03-17,Discontinued
+PROD00150,FastCharge 45W 5,Mobile & Accessories,Charger,IFB,43500.00,62100.00,Urban Retail Supply,2024-03-30,Active
+PROD00262,HeatWave 20L 2,Home Appliances,Microwave,Whirlpool,38590.00,57900.00,Metro Wholesale,2025-02-13,Active
+PROD00417,PrintPro Color 2,Office Equipment,Printer,Philips,68480.00,84800.00,Metro Wholesale,2023-02-14,Active
+PROD00401,PrintPro 120 1,Office Equipment,Printer,Dyson,71000.00,87200.00,Urban Retail Supply,2024-05-22,Active
+PROD00103,NexPhone X1 3,Mobile & Accessories,Smartphone,Logitech,62470.00,80900.00,Bharat Electronics Supply,2024-09-01,Active
+PROD00396,OfficeCab Storage 1,Furniture,Cabinet,Ikea,13220.00,16200.00,Metro Wholesale,2024-08-12,Active
+PROD00207,CoolMax 350L 2,Home Appliances,Refrigerator,Sony,6730.00,8700.00,Apex Supply Co,2024-05-26,Active
+PROD00250,WASHPRO 7KG 5,Home Appliances,Washing Machine,Boat,3490.00,4000.00,Urban Retail Supply,08/10/2023,Active
+PROD00463,SecureCut 10 3,Office Equipment,Shredder,IFB,16990.00,22600.00,Western Trade House,2023-04-09,Active
+PROD00297,BreezeCool Desert 2,Home Appliances,Air Cooler,Philips,34120.00,54300.00,Metro Wholesale,2023-04-16,Active
+PROD00161,POWERGO 10000 1,Mobile & Accessories,Power Bank,Boat,4250.00,5400.00,Western Trade House,2025-11-22,Active
+PROD00002,NexBook Pro 14 2,Electronics,Laptop,Acer,60200.00,83800.00,Western Trade House,2024-05-11,Active
+PROD00078,PixelShot Mirrorless 3,Electronics,Camera,Samsung,44130.00,56500.00,Eastern Trade Links,2024-11-23,Active
+PROD00356,Comfort Sofa Premium 1,Furniture,Sofa,Lenovo,4350.00,6600.00,Global Tech Distributors,2024-06-18,Active
+PROD00398,OfficeCab Storage 3,Furniture,Cabinet,Canon,23060.00,27800.00,Global Tech Distributors,2025-02-11,Active
+PROD00414,PrintPro Laser 4,Office Equipment,Printer,Epson,7020.00,9500.00,Urban Retail Supply,2026-01-21,Active
+PROD00343,Comfort Sofa 2S 3,Furniture,Sofa,Godrej,41150.00,56800.00,Bharat Electronics Supply,02/04/2022,Active
+PROD00011,NexBook Business 15 1,Electronics,Laptop,JBL,25690.00,38900.00,Bharat Electronics Supply,2025-03-01,Discontinued
+PROD00327,WorkDesk 150 2,Furniture,Desk,Whirlpool,7400.00,10100.00,National Consumer Products,2024-12-18,Active
+PROD00424,ScanFast 200 4,Office Equipment,Scanner,IFB,11230.00,18000.00,Metro Wholesale,2023-07-18,Active
+PROD00008,NexBook Air 13 3,Electronics,Laptop, Whirlpool ,5410.00,8200.00,Global Tech Distributors,2024-01-26,Active
+PROD00346,Comfort Sofa 3S 1,Furniture,Sofa,JBL,26210.00,41300.00,Apex Supply Co,2023-12-26,Active
+PROD00091,SoundBeat Tower 1,Electronics,Speaker,Asus,73400.00,103700.00,Western Trade House,2022-12-11,Active
+PROD00072,PixelShot Pro 2,Electronics,Camera,IFB,97590.00,117900.00,Bharat Electronics Supply,2024-01-06,Active
+PROD00389,OfficeCab 3Door 4,Furniture,Cabinet,NexTech,17710.00,24300.00,Global Tech Distributors,2025-05-26,Active
+PROD00332,WorkDesk Executive 2,Furniture,Desk,Samsung,14860.00,21400.00,Eastern Trade Links,2024-01-07,Active
+PROD00482,PowerGuard 600 2,Office Equipment,UPS,Ikea,23310.00,26600.00,Metro Wholesale,2023-09-18,Active
+PROD00035,ViewMax Ultra 32 5,Electronics,Monitor,Dell,61450.00,82500.00,Bharat Electronics Supply,2024-06-07,Active
+PROD00433,ScanFast Duplex 3,Office Equipment,Scanner,JBL,18530.00,28900.00,South India Distribution,2022-07-27,Active
+PROD00251,WashPro 8KG 1,Home Appliances,Washing Machine,Sony,26790.00,35700.00,Urban Retail Supply,2024-12-02,Active
+PROD00109,NexPhone X2 4,Mobile & Accessories,Smartphone,Ikea,57230.00,77900.00,Global Tech Distributors,2022-08-10,Active
+PROD00198,NexWatch Classic 3,Mobile & Accessories,Smartwatch,Godrej,38910.00,62700.00,National Consumer Products,2022-11-19,Active
+PROD00113,NexPhone Pro 3,Mobile & Accessories,Smartphone,NexTech,42660.00,63700.00,Bharat Electronics Supply,2023-06-04,Active
+PROD00354,Comfort Sofa LShape 4,Furniture,Sofa,Havells,29800.00,36700.00,Western Trade House,2023-01-17,Discontinued
+PROD00063,PixelShot 200 3,Electronics,Camera,Dyson,72930.00,91000.00,Urban Retail Supply,2024-05-19,Active
+PROD00102,NexPhone X1 2,Mobile & Accessories,Smartphone,HP,1700.00,2100.00,Urban Retail Supply,2025-12-08,Active
+PROD00405,PrintPro 120 5,OFFICE EQUIPMENT,Printer,Sony,56260.00,66800.00,Global Tech Distributors,2025-11-13,Active
+PROD00363,BookSpace 4Tier 3,Furniture,Bookshelf,JBL,18900.00,29800.00,Eastern Trade Links,2022-11-18,Discontinued
+PROD00434,ScanFast Duplex 4,Office Equipment,Scanner,IFB,51620.00,64000.00,Urban Retail Supply,2023-08-22,Active
+PROD00289,BreezeCool 30L 4,Home Appliances,Air Cooler,JBL,81120.00,94800.00,Bharat Electronics Supply,2022-11-03,Active

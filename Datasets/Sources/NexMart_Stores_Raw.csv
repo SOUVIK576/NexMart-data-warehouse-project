@@ -1,0 +1,53 @@
+﻿StoreID,StoreName,StoreType,City,State,Region,SalesChannel,ManagerEmployeeID,StoreStatus
+STORE019,NexMart Bengaluru Outlet 1,Outlet,Bengaluru,Karnataka,South,Omnichannel,EMP0106,Temporarily Closed
+STORE030,NexMart Patna Outlet 2,Outlet,Patna,Bihar,East,Omnichannel,EMP0131,Active
+STORE018,NexMart Amritsar Express 1,Express,Amritsar,Punjab,North,Omnichannel,EMP0257,Temporarily Closed
+STORE045,NEXMART MYSURU STANDARD 2,Standard,Mysuru,Karnataka,SOUTH,Physical Store,EMP0255,Temporarily Closed
+STORE038,NexMart New Delhi Standard 2,standard,New Delhi,Delhi,North,Physical Store,EMP0075,Active
+STORE010,NexMart Ahmedabad Outlet 1,Outlet,Ahmedabad,Gujarat,West,Physical Store,EMP0133,Active
+STORE050,NexMart Thiruvananthapuram Flagship 2,Flagship,Thiruvananthapuram,Kerala,South,Omnichannel,EMP0087,Active
+STORE032,NexMart Mumbai Express 2,Express,Mumbai,Maharashtra,West,Physical Store,EMP0211,Active
+STORE049,NexMart Kochi Flagship 2,Flagship,Kochi,Kerala,SOUTH,Physical Store,EMP0116,Temporarily Closed
+STORE037, NexMart Vadodara Flagship 2 ,Flagship,Vadodara,Gujarat,West,Omnichannel,EMP0102,Active
+STORE026,NexMart Kolkata Standard 2,Standard,Kolkata,West Bengal,East,Omnichannel,EMP0294,Active
+STORE002,NexMart Siliguri Express 1,Express,Siliguri,West Bengal,East,Physical Store,EMP0208,Temporarily Closed
+STORE009,NexMart Nagpur Flagship 1,Flagship,Nagpur,Maharashtra,West,Physical Store,EMP0099,Active
+STORE048,NexMart Hyderabad Standard 2,Standard,Hyderabad,Telangana,South,Physical Store,EMP0048,Active
+STORE005,NexMart Patna Flagship 1,Flagship,Patna,Bihar,East,Omnichannel,EMP0131,Temporarily Closed
+STORE011, NexMart Surat Outlet 1 ,Outlet,Surat,Gujarat,West,Physical Store,EMP0198,Active
+STORE017,NexMart Chandigarh Flagship 1,flagship,Chandigarh,Chandigarh,North,Omnichannel,EMP0003,Active
+STORE029,NexMart Cuttack Standard 2,Standard,Cuttack,Odisha,EAST,Omnichannel,EMP0132,Active
+STORE044,NexMart Bengaluru Flagship 2,Flagship,Bengaluru,Karnataka,South,Omnichannel,EMP0095,Active
+STORE014,NexMart Gurugram Flagship 1,Flagship,Gurugram,Haryana,North,Omnichannel,EMP0060,Active
+STORE023,NexMart Hyderabad Flagship 1,Flagship,Hyderabad,Telangana,South,Omnichannel,EMP0160,Temporarily Closed
+STORE013,NexMart New Delhi Flagship 1,flagship,New Delhi,Delhi,NORTH,Physical Store,EMP0252,Active
+STORE036,NexMart Surat Flagship 2,Flagship,Surat,Gujarat,West,Omnichannel,EMP0280,Active
+STORE039,NexMart Gurugram Express 2,Express,Gurugram,Haryana,North,Omnichannel,EMP0214,Active
+STORE046,NexMart Chennai Standard 2,Standard,Chennai,Tamil Nadu,South,Physical Store,EMP0258,Temporarily Closed
+STORE040,NexMart Jaipur Flagship 2,Flagship,Jaipur,Rajasthan,North,Physical Store,EMP0094,Temporarily Closed
+STORE043,NexMart Amritsar Standard 2,Standard,Amritsar,Punjab,North,Omnichannel,EMP0038,Active
+STORE004,NexMart Cuttack Express 1,Express,Cuttack,Odisha,EAST,Omnichannel,EMP0040,Active
+STORE027,NexMart Siliguri Standard 2,Standard,Siliguri,West Bengal,East,Physical Store,EMP0238,Active
+STORE008,NexMart Pune Standard 1,Standard,Pune,Maharashtra,West,Omnichannel,EMP0240,Active
+STORE007,NexMart Mumbai Standard 1,Standard,Mumbai,Maharashtra,West,Omnichannel,EMP0204,Temporarily Closed
+STORE016,NexMart Lucknow Express 1,Express,Lucknow,Uttar Pradesh,North,Physical Store,EMP0232,Active
+STORE003,NexMart Bhubaneswar Standard 1,Standard,Bhubaneswar,Odisha,East,Physical Store,EMP0179,Active
+STORE001,NexMart Kolkata Flagship 1,Flagship,Kolkata,West Bengal,East,Physical Store,EMP0238,Active
+STORE024,NexMart Kochi Standard 1,Standard,Kochi,Kerala,South,Omnichannel,EMP0131,Active
+STORE015,NexMart Jaipur Flagship 1,Flagship,Jaipur,Rajasthan,North,Physical Store,EMP0300,Active
+STORE021,NexMart Chennai Flagship 1,Flagship,Chennai,Tamil Nadu,South,Omnichannel,EMP0247,Active
+STORE006,NexMart Ranchi Standard 1,Standard,Ranchi,Jharkhand,East,Omnichannel,EMP0081,Active
+STORE028,NexMart Bhubaneswar Standard 2,Standard,Bhubaneswar,Odisha,East,Omnichannel,EMP0078,Active
+STORE012,NexMart Vadodara Express 1,Express,Vadodara,Gujarat,West,Physical Store,EMP0038,Temporarily Closed
+STORE047,NexMart Coimbatore Standard 2,Standard,Coimbatore,Tamil Nadu,South,Omnichannel,EMP0088,Temporarily Closed
+STORE031,NexMart Ranchi Standard 2,Standard,Ranchi,Jharkhand,East,Physical Store,EMP0053,Active
+STORE034,NexMart Nagpur Outlet 2,Outlet,Nagpur,Maharashtra,West,Physical Store,EMP0299,Active
+STORE020,NexMart Mysuru Standard 1,Standard,Mysuru,Karnataka,South,Omnichannel,EMP0245,Active
+STORE017,NEXMART CHANDIGARH FLAGSHIP 1,flagship,Chandigarh,Chandigarh,North,Omnichannel,EMP0003,Active
+STORE025, NexMart Thiruvananthapuram Express 1 ,Express,Thiruvananthapuram,Kerala,South,Omnichannel,EMP0220,Active
+STORE042, NexMart Chandigarh Flagship 2 ,Flagship,Chandigarh,Chandigarh,North,Omnichannel,EMP0108,Active
+STORE033,NexMart Pune Outlet 2,Outlet,Pune,Maharashtra,West,Physical Store,EMP0021,Active
+STORE041,NexMart Lucknow Express 2,Express,Lucknow,Uttar Pradesh,North,Physical Store,EMP0103,Active
+STORE035,NexMart Ahmedabad Express 2,Express,Ahmedabad,Gujarat,West,Omnichannel,EMP0273,Active
+STORE045,NexMart Mysuru Standard 2,Standard,Mysuru,Karnataka,SOUTH,Physical Store,EMP0255,Temporarily Closed
+STORE022,NexMart Coimbatore Standard 1,Standard,Coimbatore,Tamil Nadu,South,Physical Store,EMP0186,Active
