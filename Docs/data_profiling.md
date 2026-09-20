@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-This document records the data profiling performed during Project 1 of the NexMart Retail Enterprise Data Warehouse.
+This document records the data profiling performed during of the NexMart Retail Enterprise Data Warehouse.
 
 The profiling was performed to understand:
 
@@ -1464,7 +1464,7 @@ Revenue, gross sales, tax amount, discount amount, and net sales were not calcul
 9. Quality-status fields identify data conditions but do not provide full historical audit lineage for every transformation.
 10. Revenue calculations were intentionally deferred until business rules are defined.
 
-# 20. Final Project 1 Data State
+# 20. Final Project Data State
 
 The completed Silver layer contains:
 
