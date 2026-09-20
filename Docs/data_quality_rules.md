@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-This document defines the data quality rules used during Project 1 of the NexMart Retail Enterprise Data Warehouse.
+This document defines the data quality rules used during Project of the NexMart Retail Enterprise Data Warehouse.
 
 The rules are based on the actual profiling findings and transformation decisions documented for the project.
 
@@ -158,7 +158,7 @@ Each CustomerID must identify one customer in the final Silver layer.
 
 - Duplicate CustomerID = 0
 
-**Actual Project 1 result:**
+**Actual Project result:**
 
 - 150 duplicate groups were found in the source.
 - After deduplication: 15,000 unique CustomerIDs.
@@ -192,7 +192,7 @@ Gender must be one of the observed valid values:
 
 NULL is allowed when the source value is missing.
 
-**Project 1 result:**
+**Project result:**
 
 - Female: 5,007
 - Male: 4,880
@@ -230,7 +230,7 @@ DateOfBirth must be convertible to DATE.
 - Invalid date
 - Future date
 
-**Project 1 result:**
+**Project result:**
 
 - Invalid conversion = 0
 - Future DOB = 0
@@ -244,7 +244,7 @@ DateOfBirth must be convertible to DATE.
 
 Email may be NULL, but a non-NULL email should contain `@`.
 
-**Project 1 source findings:**
+**Project source findings:**
 
 - NULL: 243
 - Missing `@`: 128
@@ -276,7 +276,7 @@ SET Email = LOWER(LTRIM(RTRIM(Email)));
 
 Non-NULL email values should not be duplicated.
 
-**Project 1 result:**
+**Project result:**
 
 - Duplicate non-NULL emails = 0
 
@@ -293,7 +293,7 @@ A populated customer phone number must:
 
 NULL is allowed.
 
-**Project 1 result:**
+**Project result:**
 
 - Present: 14,814
 - Missing: 186
@@ -308,7 +308,7 @@ NULL is allowed.
 
 Customer City should be populated.
 
-**Project 1 result:**
+**Project result:**
 
 - Present: 15,000
 - Missing: 0
@@ -321,7 +321,7 @@ Customer City should be populated.
 
 Customer State should be populated.
 
-**Project 1 result:**
+**Project result:**
 
 - Present: 15,000
 - Missing: 0
@@ -334,7 +334,7 @@ Customer State should be populated.
 
 Customer Region should be populated.
 
-**Project 1 result:**
+**Project result:**
 
 - Present: 15,000
 - Missing: 0
@@ -354,7 +354,7 @@ Non-NULL CustomerSegment values must belong to the observed valid domain:
 
 NULL is allowed and must be classified.
 
-**Project 1 result:**
+**Project result:**
 
 - Missing: 186
 - Valid: 14,814
@@ -370,7 +370,7 @@ NULL is allowed and must be classified.
 
 ProductID must not be NULL or blank.
 
-**Project 1 result:**
+**Project result:**
 
 - Missing ProductID = 0
 
@@ -382,7 +382,7 @@ ProductID must not be NULL or blank.
 
 ProductID must be unique in Products Silver.
 
-**Project 1 result:**
+**Project result:**
 
 - Source duplicate groups: 15
 - Final duplicate ProductIDs: 0
@@ -408,7 +408,7 @@ UPPER(LTRIM(RTRIM(ProductName)))
 
 Category must be populated.
 
-**Project 1 result:**
+**Project result:**
 
 - Missing Category = 0
 
@@ -428,7 +428,7 @@ Observed categories:
 
 SubCategory must be populated.
 
-**Project 1 result:**
+**Project result:**
 
 - Missing SubCategory = 0
 
@@ -440,7 +440,7 @@ SubCategory must be populated.
 
 Brand must be populated.
 
-**Project 1 result:**
+**Project result:**
 
 - Missing Brand = 0
 
@@ -452,7 +452,7 @@ Brand must be populated.
 
 UnitCost must be convertible to DECIMAL(18,2).
 
-**Project 1 result:**
+**Project result:**
 
 - Invalid conversion = 0
 - Positive = 494
@@ -487,7 +487,7 @@ Final:
 
 UnitPrice must be convertible to DECIMAL(18,2).
 
-**Project 1 result:**
+**Project result:**
 
 - Invalid conversion = 0
 - Positive = 500
@@ -500,7 +500,7 @@ UnitPrice must be convertible to DECIMAL(18,2).
 
 Supplier may be NULL, but blank Supplier values are not expected.
 
-**Project 1 result:**
+**Project result:**
 
 - NULL: 8
 - Blank: 0
@@ -518,7 +518,7 @@ ProductStatus must represent the observed valid states:
 - Active
 - Discontinued
 
-**Project 1 result:**
+**Project result:**
 
 - Active: 448
 - Discontinued: 52
@@ -531,7 +531,7 @@ ProductStatus must represent the observed valid states:
 
 LaunchDate must be convertible to DATE.
 
-**Project 1 result:**
+**Project result:**
 
 - Invalid dates: 0
 - Missing/blank: 0
@@ -554,7 +554,7 @@ DATE
 
 StoreID must not be NULL or blank.
 
-**Project 1 result:**
+**Project result:**
 
 - Missing StoreID = 0
 
@@ -566,7 +566,7 @@ StoreID must not be NULL or blank.
 
 StoreID must uniquely identify one store in Stores Silver.
 
-**Project 1 source findings:**
+**Project source findings:**
 
 - STORE017 duplicated
 - STORE045 duplicated
@@ -635,7 +635,7 @@ Final distribution:
 
 Every non-NULL ManagerEmployeeID should exist in Employees Silver.
 
-**Project 1 result:**
+**Project result:**
 
 - Invalid ManagerEmployeeID = 0
 
@@ -647,7 +647,7 @@ Every non-NULL ManagerEmployeeID should exist in Employees Silver.
 
 A City should not map to conflicting States within the available store data.
 
-**Project 1 result:**
+**Project result:**
 
 - City → State conflicts = 0
 
@@ -659,7 +659,7 @@ A City should not map to conflicting States within the available store data.
 
 A State should not map to conflicting Regions within the available store data.
 
-**Project 1 result:**
+**Project result:**
 
 - State → Region conflicts = 0
 
@@ -696,7 +696,7 @@ Store SalesChannel must use:
 - Omnichannel
 - Physical Store
 
-Project 1 result:
+Project result:
 
 - Omnichannel: 27
 - Physical Store: 23
@@ -712,7 +712,7 @@ Project 1 result:
 
 EmployeeID must not be NULL or blank.
 
-**Project 1 result:**
+**Project result:**
 
 - Missing EmployeeID = 0
 
@@ -760,7 +760,7 @@ Final:
 
 HireDate must be convertible to DATE and must not be a future date.
 
-Project 1:
+Project:
 
 - Missing: 0
 - Blank: 0
@@ -793,7 +793,7 @@ Final:
 
 A populated Employee.StoreID should exist in Stores Silver.
 
-Project 1 exception:
+Project exception:
 
 - EMP0058 has StoreID = NULL
 
@@ -811,7 +811,7 @@ The StoreID must not be guessed.
 
 A populated Sales.EmployeeID should normally exist in Employees Silver.
 
-Project 1 exception:
+Project exception:
 
 - EMP9999
 - 75 sales transactions
@@ -829,7 +829,7 @@ These transactions are retained and mapped to the Gold Unknown Employee.
 
 TransactionID must not be NULL or blank.
 
-Project 1:
+Project:
 
 - Missing: 0
 
@@ -871,7 +871,7 @@ The duplicate records were investigated before deletion.
 
 OrderID must not be NULL or blank.
 
-Project 1:
+Project:
 
 - Missing/blank = 0
 
@@ -886,7 +886,7 @@ OrderLineNumber must:
 - Be numeric
 - Be greater than zero
 
-Project 1:
+Project:
 
 - Non-numeric = 0
 - Non-positive = 0
@@ -907,7 +907,7 @@ OrderDate must be convertible to DATE.
 
 Supported source formats were evaluated using `TRY_CONVERT`.
 
-Project 1:
+Project:
 
 - Invalid dates = 0
 - Earliest = 2023-01-01
@@ -921,7 +921,7 @@ Project 1:
 
 A populated Sales.CustomerID should exist in Customers Silver.
 
-Project 1:
+Project:
 
 - Valid: 419,336
 - Invalid: 250
@@ -937,7 +937,7 @@ All 420,006 rows receive a `CustomerQualityStatus`.
 
 A populated Sales.ProductID should exist in Products Silver.
 
-Project 1:
+Project:
 
 - Valid: 419,856
 - Invalid: 150
@@ -951,7 +951,7 @@ Project 1:
 
 A populated Sales.StoreID should exist in Stores Silver.
 
-Project 1:
+Project:
 
 - Valid: 419,931
 - Invalid: 75
@@ -965,7 +965,7 @@ Project 1:
 
 A populated Sales.EmployeeID should exist in Employees Silver.
 
-Project 1:
+Project:
 
 - Valid: 419,595
 - Invalid: 75
@@ -1006,7 +1006,7 @@ Invalid values are preserved because replacement values cannot be reliably deter
 
 UnitPrice must be numeric and convertible to DECIMAL(18,2).
 
-Project 1:
+Project:
 
 - Positive: 419,276
 - NULL: 630
@@ -1070,7 +1070,7 @@ PaymentMethod must belong to the observed domain:
 - Net Banking
 - Cash
 
-Project 1:
+Project:
 
 - Missing/unexpected values = 0
 
@@ -1085,7 +1085,7 @@ SalesChannel must be:
 - Online
 - Physical Store
 
-Project 1:
+Project:
 
 - Missing/blank/unexpected = 0
 
@@ -1161,7 +1161,7 @@ These are retained and mapped to Unknown Employee.
 
 Every populated Store.ManagerEmployeeID should exist in Employees Silver.
 
-Project 1:
+Project:
 
 - Invalid references = 0
 
@@ -1171,7 +1171,7 @@ Project 1:
 
 Every populated Employee.StoreID should exist in Stores Silver.
 
-Project 1:
+Project:
 
 - Invalid non-NULL references = 0
 - One missing StoreID: EMP0058
@@ -1306,7 +1306,7 @@ Final results:
 
 DimDate must contain every date between the minimum and maximum sales dates.
 
-Project 1:
+Project:
 
 - Earliest: 2023-01-01
 - Latest: 2026-06-30
@@ -1319,7 +1319,7 @@ Project 1:
 
 FactSales row count must equal the final Sales Silver row count.
 
-Project 1:
+Project:
 
 - Sales Silver: 420,006
 - FactSales: 420,006
@@ -1334,7 +1334,7 @@ Difference:
 
 TransactionID must be unique in FactSales.
 
-Project 1:
+Project:
 
 - FactSales rows: 420,006
 - Distinct TransactionIDs: 420,006
@@ -1356,7 +1356,7 @@ Expected:
 
 - NULL = 0
 
-Project 1:
+Project:
 
 - DateKey NULL = 0
 - CustomerKey NULL = 0
@@ -1388,7 +1388,7 @@ Final invalid foreign-key references:
 
 Unresolved Silver references must map to the appropriate Unknown dimension member rather than producing NULL foreign keys.
 
-Project 1 Unknown mappings:
+Project Unknown mappings:
 
 | Dimension | Unknown Fact Rows |
 |---|---:|
@@ -1517,7 +1517,7 @@ These exceptions are not hidden. They are represented through Silver quality-sta
 
 # 15. Final Data Quality Philosophy
 
-The Project 1 implementation follows a controlled data-quality approach:
+The Project implementation follows a controlled data-quality approach:
 
 ```text
 Profile
